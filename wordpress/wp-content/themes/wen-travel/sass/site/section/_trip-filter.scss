@@ -1,0 +1,77 @@
+/**
+ * 7.3.16 - Trip Filter Section
+ */
+
+.trip-filter-section.section {
+	margin-bottom: 0;
+}
+
+ .trip-filter-section {
+
+ 	.description-box {
+ 		background-color: transparent;
+ 		box-shadow: none;
+ 		padding: 0;
+
+ 		.item {
+			position: relative;
+ 			padding: 0px 5px;
+ 			margin-bottom: 5px;
+ 			.icon:not(.icon-search) {
+				 position: absolute;
+				 top: 15px;
+ 				left:10px;
+ 			}
+ 		&.item-2 {
+ 			margin-right: 0;
+ 		}	
+ 		&.item-1 select {
+ 			@include border(0);
+ 		}
+
+ 		&.item-4 {
+ 			button {
+ 				border: 0;
+ 				@include border(0);
+ 				outline: 0;
+ 				padding: 17px 35px 17px 40px;
+ 				position: relative;
+ 				text-transform: uppercase;
+ 				width: 100%;
+ 				&:before {
+ 					margin-right: 5px;
+ 				}
+ 			}
+ 		}
+
+ 			select,
+ 			input[type='text'] {
+ 				border: 1px solid;
+				 margin-top: 0;
+ 			}
+
+ 			input[type='text'] {
+ 				line-height: 1.5;
+ 			}
+ 		}
+ 	}
+ }
+
+ .trip-filter-section .description-box .item select {
+	 padding: 15px;
+	 padding-left: 35px;
+	 width: 100%;
+ }
+
+ .trip-filter-section .description-box .item input[type='text'] {
+	 padding-bottom: 12px;
+	 padding-top: 12px;
+ }
+
+ .trip-filter-section .description-box .item.item-2 select {
+	 border-radius: 0;
+ }
+
+ .trip-filter-section .icon-search {
+	 left: -10px;
+ }

@@ -1,0 +1,49 @@
+/*.wp-travel-toolbar .wp-toolbar-content .wp-travel-post-filter {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center; }*/
+  .wp-travel-toolbar .wp-toolbar-content .wp-travel-post-filter .wp-travel-filter-by-heading h4 {
+    font-family: sans-serif;
+    text-transform: uppercase; }
+ /* .wp-travel-toolbar .wp-toolbar-content .wp-travel-post-filter .wp-toolbar-filter-field {
+    padding: 0 10px; }*/
+    .wp-travel-toolbar .wp-toolbar-content .wp-travel-post-filter .wp-toolbar-filter-field select, .wp-travel-toolbar .wp-toolbar-content .wp-travel-post-filter .wp-toolbar-filter-field input {
+      margin-top: 0; }
+  /*.wp-travel-toolbar .wp-toolbar-content .wp-travel-post-filter .wp-travel-filter-button {
+    padding: 0 10px; }*/
+
+.wp-travel-archive-content .wp-travel-default-article {
+  display: flex;
+  flex-wrap: wrap;
+  padding: 0; }
+  .wp-travel-archive-content .wp-travel-default-article .wp-travel-article-image-wrap img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover; }
+  .wp-travel-archive-content .wp-travel-default-article .wp-travel-entry-content-wrapper {
+    padding: 2em 1em; }
+    .wp-travel-archive-content .wp-travel-default-article .wp-travel-entry-content-wrapper .description-left {
+      padding-right: 2em; }
+      .wp-travel-archive-content .wp-travel-default-article .wp-travel-entry-content-wrapper .description-left .entry-content {
+        margin-bottom: 15px; }
+        .wp-travel-archive-content .wp-travel-default-article .wp-travel-entry-content-wrapper .description-left .entry-content .more-link {
+          margin-top: 10px; }
+      .wp-travel-archive-content .wp-travel-default-article .wp-travel-entry-content-wrapper .description-left .entry-meta {
+        display: inline-block;
+        padding: 0;
+        margin: 0; }
+    .wp-travel-archive-content .wp-travel-default-article .wp-travel-entry-content-wrapper .description-right .wp-detail-review-wrap .wp-travel-trip-detail .trip-price span {
+      color: #111; }
+    .wp-travel-archive-content .wp-travel-default-article .wp-travel-entry-content-wrapper .description-right .wp-travel-explore a {
+      background-color: #f7c32e;
+      border-radius: 200px;
+      color: #111;
+      text-align: center;
+      padding: 14px 35px !important;
+      text-transform: uppercase;
+      font-size: .8125rem !important;
+      font-weight: 600;
+      border: 0 !important; }
+      .wp-travel-archive-content .wp-travel-default-article .wp-travel-entry-content-wrapper .description-right .wp-travel-explore a:hover {
+        background-color: #111;
+        color: #fff; }

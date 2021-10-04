@@ -1,0 +1,53 @@
+/**
+ * 7.3.6 - Hero Content
+ */
+
+#hero-section {
+    border: none;
+}
+
+#hero-section .hentry {
+    position: static;
+
+    .hentry-inner {
+        position: relative;
+    }
+}
+
+.play-button.button {
+    line-height: 50px;
+    height: 50px;
+    padding: 0;
+    position: relative;
+    width: 50px;
+    .icon {
+        font-size: 24px;
+        font-size: 1.5rem;
+    }
+    &:after {
+        left: 50%;
+        @include transform(translate(-50%,-50%));
+        top: 50%;
+        position: absolute;
+    }
+}
+
+.hero-content-wrapper .post-thumbnail-background {
+    background-position: center center;
+    background-size: cover;
+    content: "";
+    float: left;
+    padding-bottom: 100%;
+    position: relative;
+    margin: 0;
+    margin-bottom: 14px;
+    width: 100%;
+}
+
+.hero-content-wrapper .section-description {
+    margin-top: 0;
+}
+
+.hero-content-wrapper .entry-container {
+    width: 100%;
+}

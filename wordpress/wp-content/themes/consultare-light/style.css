@@ -1,0 +1,479 @@
+/*
+Theme Name: Consultare Light
+Theme URI: https://fireflythemes.com/themes/consultare-light/
+Author: FireFly Themes
+Author URI: https://fireflythemes.com/
+Description: Consultare Light is a child theme of our Dark theme Consultare. Consultare Light has all the features and functionalities of Consultare theme with added functionalities like second header, different featured content style and testimonial section. Testimonial Section has been added. Consultare Light has a bold look which will give a cutting edge look to your site. Highly customizable features and smooth design will attract new visitors to your website. The theme has been optimized to load fast and is fully responsive. You can also import demo content with plugin one click demo importer. If you want more flexible functionalities, you can also choose to upgrade to premium version of the theme. Visit https://fireflythemes.com/support for support, https://fireflythemes.com/documentation/consultare-light for theme documentation and https://demo.fireflythemes.com/consultare for demo.
+Version: 1.0.1
+Requires at least: 5.5
+Tested up to: 5.8
+Requires PHP: 5.6
+License: GPL-3.0-or-later
+License URI: https://www.gnu.org/licenses/license-list.html#GNUGPLv3
+Text Domain: consultare-light
+Template: consultare
+Tags: blog, news, entertainment, grid-layout, one-column, two-columns, left-sidebar, custom-background, custom-header, custom-logo, custom-menu, editor-style, featured-image-header, featured-images, flexible-header, footer-widgets, full-width-template, rtl-language-support, sticky-post, theme-options, threaded-comments, translation-ready, block-styles, wide-blocks
+
+Consultare Light Theme WordPress Theme, Copyright 2021 FireFly Themes
+Consultare Light Theme is distributed under the terms of the GNU GPL
+
+This theme, like WordPress, is licensed under the GPL.
+Use it to make something cool, have fun, and share what you've learned with others.
+*/
+
+
+
+
+body,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-family: "Poppins", sans-serif;
+}
+
+
+
+
+#masthead,
+body,
+.section,
+.inner-block-shadow,
+.blog.grid article.hentry .hentry-inner,
+.archive.grid article.hentry .hentry-inner,
+.team-section.style-two .thumb-summary-wrap,
+#news-events-section .event-post-wrap,
+#wwd-section .wwd-block-item.ff-grid-3:nth-of-type(even) .wwd-block-wrapper:after,
+#wwd-section .wwd-block-item.ff-grid-3:nth-of-type(odd) .wwd-block-wrapper:after,
+#wwd-section.style-one .wwd-block-item .wwd-block-wrapper:after,
+#wwd-section.style-one .wwd-block-item.ff-grid-3:nth-of-type(even) .wwd-block-wrapper:after,
+.featured-grid-section.style-one .featured-grid-text-content,
+.carousel-enabled .swiper-button-next, .carousel-enabled .swiper-button-prev,
+.single-content-wraper,
+.sidebar .widget,
+#search-container,
+#search-container:after,
+.section-portfolio.style-one .portfolio-content,
+#tabs-nav li a,
+.tab-content,
+.recent-work-filter button,
+#news-events-section .event-thumb:before,
+.section-teams .team-text-wrap,
+.woocommerce ul.products li.product, 
+.woocommerce-page ul.products li.product,
+.contact-info-wrapper,
+button#map-toggle,
+#counter-section.section.style-two .thumb-summary-wrap,
+.boxed-header #masthead.sticky-enabled.sticky-header,
+#masthead.sticky-enabled.sticky-header, .sticky-enabled.sticky-header,
+.pricing-section .pricing-plan-header,
+#masthead .search-container,#masthead .search-container:after {
+    background: #ffffff;
+}
+#masthead .search-form .search-submit {
+    border-right: 1px solid #d8d8d8;
+}
+
+.even-section,
+.entry-date-meta {
+    background: #f5f5f5;
+}
+#tabs-nav li a i {
+    -webkit-text-stroke: 1px #000;
+}
+#wwd-section:before {
+    background: #f5f5f5;
+}
+#wwd-section.even-section:before {
+    background: #fff;
+}
+
+#tabs-nav li a:hover i, #tabs-nav li.active a i{
+ -webkit-text-stroke: 1px #fff;
+}
+#tabs-nav li a {
+    border: none;
+}
+.pricing-plan-title h4 {
+    color: #1f1e1e;
+}
+
+
+/*Color*/
+.section-testimonial .testimonial-wrapper:before{
+    color: #f7f7f7;
+}
+
+body,
+button,
+input,
+select,
+optgroup,
+textarea,
+.header-info span {
+    color: #606060;
+}
+
+
+
+h1, h2, h3, h4, h5, h6,
+.search-toggle,
+.site-header-cart a,
+.search-toggle:visited,
+.site-header-cart a:visited,
+#counter-section.section.style-two .counter-section .counter-nos, 
+#counter-section.section.style-two .counter-section .counter-title {
+    color: #032e42;
+}
+
+.style-one .key-features-wrapper-style-one .key-features-items {
+    background: #f5f5f5;
+}
+
+input[type="text"],
+input[type="email"],
+input[type="url"],
+input[type="password"],
+input[type="search"],
+input[type="number"],
+input[type="tel"],
+input[type="range"],
+input[type="date"],
+input[type="month"],
+input[type="week"],
+input[type="time"],
+input[type="datetime"],
+input[type="datetime-local"],
+input[type="color"],
+textarea,
+.wpcf7 input[type="text"],
+.wpcf7 input[type="email"],
+.wpcf7 input[type="url"],
+.wpcf7 input[type="password"],
+.wpcf7 input[type="number"],
+.wpcf7 input[type="tel"],
+.wpcf7 input[type="range"],
+.wpcf7 input[type="date"],
+.wpcf7 input[type="month"],
+.wpcf7 input[type="week"],
+.wpcf7 input[type="time"],
+.wpcf7 input[type="datetime"],
+.wpcf7 input[type="datetime-local"],
+.wpcf7 input[type="color"],
+.wpcf7 textarea {
+    color: #000;
+    border: 1px solid #cac3c3;
+    background: #e6e4e4;
+}
+
+input[type="text"]:focus,
+input[type="email"]:focus,
+input[type="url"]:focus,
+input[type="password"]:focus,
+input[type="search"]:focus,
+input[type="number"]:focus,
+input[type="tel"]:focus,
+input[type="range"]:focus,
+input[type="date"]:focus,
+input[type="month"]:focus,
+input[type="week"]:focus,
+input[type="time"]:focus,
+input[type="datetime"]:focus,
+input[type="datetime-local"]:focus,
+input[type="color"]:focus,
+textarea:focus {
+    color: #ecebeb;
+    border: 1px solid #0c97e0;
+}
+select {
+    border: 1px solid #e8e8e8;
+}
+
+#counter-section.section.even-section.style-two::before,
+#contact-details-section .contact-info-wrapper {
+    background: #ffffff;
+}
+#contact-details-section .contact-info-item i {
+    color: #000000;
+    background: #f5f5f5;
+}
+
+pre {
+    background: #e6e6e6;
+}
+a,a:visited,.site-title a,
+.site-title a:visited,
+h1 a,
+h2 a,
+h3 a,
+h4 a,
+h5 a,
+h6 a,
+h1 a:visited,
+h2 a:visited,
+h3 a:visited,
+h4 a:visited,
+h5 a:visited,
+h6 a:visited,
+.main-navigation ul li a,
+.carousel-enabled .swiper-button-next, .carousel-enabled .swiper-button-prev,
+.sidebar ul li a, .sidebar ul li a:visited,
+.search-form .search-submit,
+.section-portfolio h3 a, .section-portfolio h3,
+#tabs-nav li a,
+.recent-work-filter button,
+.entry-date-meta,
+.woocommerce ul.products li.product .price,
+button#map-toggle,.overlap-header .main-navigation ul ul li a,
+a.more-link:hover, a.more-link:focus, a.more-link:active
+ {
+    color: #222;
+}
+
+.section .section-subtitle {
+    color: #606060;
+}
+.carousel-enabled .swiper-button-next, 
+.carousel-enabled .swiper-button-prev {
+    box-shadow: 0 0 16px 10px #c1bfbf21;
+}
+.carousel-enabled .swiper-button-next:hover, 
+.carousel-enabled .swiper-button-prev:hover, 
+.carousel-enabled .swiper-button-next:focus, 
+.carousel-enabled .swiper-button-prev:focus, 
+.carousel-enabled .swiper-button-next:active, 
+.carousel-enabled .swiper-button-prev:active {
+    background: #717171;
+    color:#fff;
+}
+
+#counter-section.section.style-two::before {
+    background: #f7f7f7;
+}
+.section-portfolio.style-one .portfolio-content,
+.section-teams .team-text-wrap,
+.recent-work-filter button {
+    box-shadow: 0 10px 32px 0 rgb(197 192 192 / 40%);
+}
+
+
+.dark-nav .main-navigation ul ul, .dark-nav .main-navigation ul ul:before {
+    background: #fff;
+}
+#main-nav .dark-nav .main-navigation ul li li a {
+    color: #000;
+}
+.dark-top-header .main-navigation ul li a {
+    color:#fff;
+}
+@media screen and (min-width: 910px){
+    .main-navigation ul ul,.main-navigation ul ul:before {
+        background: #fff;
+
+    }
+
+
+    .main-navigation ul ul a {
+        border-bottom: 1px solid rgb(0 0 0 / 11%);
+    }
+}
+@media screen and (max-width: 909px){
+    .overlap-header .site-title a, 
+    .overlap-header .site-title a:visited {
+        color: #100f0f;
+    }
+}
+select {
+    background: #ffffff;
+}
+#comments {
+    background: #ffffff;
+}
+.site-header-main.boxed-header-wrapper {
+    background: #ffffff;
+}
+.overlap-header .main-navigation ul li a {
+    color: #ffffff;
+    background: inherit;
+}
+
+
+#hww-section .hww-block-item h3::before {
+    background: #ffffff;
+    }
+#key-features-section.style-one .section-title-wrap h2.section-title {
+    color: #032e42;
+}
+.section-testimonial .testimonial-wrapper {
+    background: #f3f3f3;
+}
+.section-testimonial .testimonial-summary {
+    border-bottom: 1px solid #ffffff;
+
+}
+.search-form .search-submit {
+    border-color: #cac3c3;
+}
+#slider-section .swiper-slide.swiper-slide-active img {
+    transform: inherit;
+    transition: inherit;
+}
+#testimonial-section.overlay-enabled h3, #testimonial-section.overlay-enabled p, #testimonial-section.overlay-enabled h3, #testimonial-section.overlay-enabled h4 {
+    color: #000;
+}
+.nav-links a {
+    color: #2d2b2b;
+}
+.entry-meta a, .entry-meta a:visited {
+    color: #756e6e;
+}
+.sticky .hentry-inner:before {
+
+    background: #dd3333
+    }
+.featured-image-enabled .featured-background-img:hover h3 a, 
+.featured-image-enabled .featured-background-img:hover h3, 
+.featured-image-enabled .featured-background-img:hover p, 
+.featured-image-enabled .featured-background-img:hover a.more-link,
+.featured-image-enabled.highlighted-item .featured-background-img h3 a, 
+.featured-image-enabled.highlighted-item .featured-background-img h3, 
+.featured-image-enabled.highlighted-item .featured-background-img p, 
+.featured-image-enabled.highlighted-item .featured-background-img a.more-link,
+#slider-section .slider-top-subtitle  {
+    color: #ffff;
+}
+.pricing-plan-features ul li:nth-child(even) {
+    background: #eaeaea;
+}
+#hero-content-section a.hero-call-us {
+    color: #000;
+
+}
+#hero-content-section .hero-video a {
+    color: #000;
+}
+.case-study-overlap-wrap.overlap-enabled {
+    background: #ffffff;
+    box-shadow: 0 0 35px #0000002e;
+}
+#hero-content-section .hero-video {
+
+    background: #fff;
+
+    box-shadow: 0 0 23px #00000040;
+}
+#hww-section .hww-block-item h3::before {
+    background: #ffffff;
+    box-shadow: 0 0 35px #00000042;
+}
+.style-three .featured-image-enabled .featured-background-img h3 a, 
+.style-three .featured-image-enabled .featured-background-img h3, 
+ .style-three  .featured-image-enabled .featured-background-img p {
+    color: #fff;
+}
+.recent-work-filter button:hover {
+    background: #fff;
+}
+
+.section-wwd a.wwd-fonts-icon {
+    background: #ffffff;
+    box-shadow: 0px 10px 32px 0px rgb(144 132 132 / 40%);
+}
+.woocommerce ul.products li.product, .woocommerce-page ul.products li.product {
+
+    box-shadow: 0 0 28px #0000001f;
+}
+a.ff-button:hover, button:hover, a.button:hover, input[type="button"]:hover, input[type="reset"]:hover, input[type="submit"]:hover, button:focus, a.button:focus, a.ff-button:focus, input[type="button"]:focus, input[type="reset"]:focus, input[type="submit"]:focus, button:active, a.ff-button:active, input[type="button"]:active, input[type="reset"]:active, input[type="submit"]:active, .woocommerce #respond input#submit:hover, .woocommerce a.button:hover, .woocommerce button.button:hover, .woocommerce input.button:hover, .woocommerce #respond input#submit.alt:hover, .woocommerce a.button.alt:hover, .woocommerce button.button.alt:hover, .woocommerce input.button.alt:hover {
+    background: #000;
+    color: #fff;
+}
+.main-navigation ul ul {
+    box-shadow: 0 16px 30px #7b6a6a4d;
+}
+
+.section-testimonial .testimonial-wrapper {
+    background: #ffffff;
+    box-shadow: 0 0 13px #0000000d;
+    margin: 5px;
+}
+.swiper-carousel-enabled .inner-block-shadow {
+    -webkit-box-shadow: 0px 0px 13px 0px rgb(122 122 122 / 7%);
+    -moz-box-shadow: 0px 0px 13px 0px rgba(122, 122, 122, 0.07);
+    -ms-box-shadow: 0px 0px 13px 0px rgba(122, 122, 122, 0.07);
+    -o-box-shadow: 0px 0px 13px 0px rgba(122, 122, 122, 0.07);
+    box-shadow: 0px 0px 13px 0px rgb(122 122 122 / 7%);
+    border: 1px solid #ddd;
+}
+.section-testimonial .testimonial-summary {
+    border-bottom: 1px solid #eaeaea;
+}
+.section-testimonial .testimonial-wrapper {
+    background: #fff;
+    box-shadow: 0 0 13px #0000000d;
+    margin: 0;
+    border: 1px solid #ddd;
+}
+.section-testimonial .testimonial-wrapper:before {
+    color: #eaeaea;
+}
+#contact-details-section .contact-info-wrapper {
+    box-shadow: 0 10px 29px 0 rgb(50 50 50 / 18%);
+}
+.blog.excerpt-image-right article.hentry, .blog.excerpt-image-left article.hentry, .archive.excerpt-image-right article.hentry, .archive.excerpt-image-left article.hentry {
+    border-bottom: 1px solid #58545421;
+}
+#key-features-section.style-one .more-link:before, #key-features-section.style-one a.more-link, #key-features-section.style-one a.more-link:visited {
+    color: #000000;
+}
+#quick-contact.layout-two li span {
+    color: #000;
+}
+#quick-contact a, #quick-contact a:visited, #quick-contact li {
+    color: #5f5454;
+}
+/*New style*/
+#quick-contact a, #quick-contact a:visited, #quick-contact li {
+    color: #fff;
+}
+.page-content p a, .entry-content p a, .entry-summary p a, .widget .textwidget a, .comment-content a, .section p a, .page-content a, .entry-content a, .entry-summary a, .widget .textwidget a, .comment-content a, .page-content p a:visited, .entry-content p a:visited, .entry-summary p a:visited, .widget .textwidget a:visited, .comment-content a:visited, .section p a:visited, .page-content a:visited, .entry-content a:visited, .entry-summary a:visited, .widget .textwidget a:visited, .comment-content a:visited {
+    text-decoration: underline;
+    color: #020202;
+}
+#content {
+    clear: both;
+}
+
+
+/*color Scheme*/
+.counter-section .counter-icon i,#quick-contact li:before,.contact-icon i,
+.key-features-section a.key-features-icon i,#wwd-section a.wwd-fonts-icon i  {
+    -webkit-text-stroke-color:#dd3333;
+}
+.sticky .hentry-inner,#slider-section .swiper-slide .slider-subtitle,
+.sidebar .widget-title:after,#slider-section .swiper-button-next:hover, 
+#slider-section .swiper-button-prev:hover, #slider-section .swiper-button-next:focus, 
+#slider-section .swiper-button-prev:focus, #slider-section .swiper-button-next:active, 
+#slider-section .swiper-button-prev:active,.pricing-section .pricing-plan-item.popular .plan-inner {
+        border-color: #dd3333;
+    }
+.main-header-one .main-header-top,.inner-block-shadow {
+    border-bottom-color:#dd3333;
+}
+.wp-block-quote:not(.is-large):not(.is-style-large), blockquote,#slider-section.style-five .slider-content-inner-wrapper {
+    border-left-color:#dd3333;
+}
+.site-border{
+        border-top-color:#dd3333;
+    }
+
+.counter-section .counter-icon i, #quick-contact li:before, .contact-icon i, .key-features-section a.key-features-icon i, #wwd-section a.wwd-fonts-icon i {
+    -webkit-text-stroke-color: #dd3333;
+}
+.ff-button, .ff-button:visited, button, a.button, .ff-button.button-secondary:hover, .ff-button.button-secondary:active, .ff-button.button-secondary:focus, input[type="button"], input[type="reset"], input[type="submit"], .woocommerce #respond input#submit, .woocommerce a.button, .woocommerce button.button, .woocommerce input.button, .woocommerce #respond input#submit.alt, .woocommerce a.button.alt, .woocommerce button.button.alt, .woocommerce input.button.alt, #hero-section .featured-info a.more-link, #hero-section .featured-info a.more-link:visited, #promotion-section a.more-link, #promotion-section a.more-link:visited, a.scrollup, a.scrollup:visited, .footer-widget-area .widget-title:after, .section .section-title-wrap span.divider, #slider-section .swiper-pagination .swiper-pagination-bullet.swiper-pagination-bullet-active, .cart-contents p.woocommerce-mini-cart__buttons.buttons .button, .section-latest-posts .latest-posts-title:after, #contact-form-section.style-two:after, #slider-section.style-three .slider-image-wrapper:after, .sidebar .widget-title:after, .section-latest-posts .new-cat a, .swiper-carousel-enabled .swiper-pagination-bullet-active, .swiper-carousel-enabled .swiper-pagination-bullet:hover, .swiper-carousel-enabled .swiper-pagination-bullet:focus, .swiper-carousel-enabled .swiper-pagination-bullet:active, a.comment-reply-link, .nav-inner-wrapper.nav-color-bg, .nav-inner-wrapper.nav-color-bg.sticky-enabled.sticky-header, .section .section-title-wrap span.divider:after, .section .title-divider, #slider-section .swiper-slide .divider, .overlap-header .main-navigation ul li.current-menu-item > a:before, .overlap-header .main-navigation ul li.current-menu-ancestor > a:before, .overlap-header .main-navigation ul li.current_page_item > a:before, .overlap-header .main-navigation ul li:hover > a:before, .overlap-header .main-navigation ul li a:hover:before, .overlap-header .main-navigation ul li a:focus:before, #slider-section a.more-link, #slider-section a.more-link:visited, .wwd-item-title:after, .featured-grid-title:after, .section-latest-posts .new-cat a, .post-thumbnail .cat-links a, #playlist-section .mejs-container, #playlist-section .mejs-embed, #playlist-section .mejs-embed body, #playlist-section .mejs-container .mejs-controls, #playlist-section .wp-playlist-tracks .wp-playlist-item.wp-playlist-playing, #playlist-section .wp-playlist-tracks .wp-playlist-item:hover, .pricing-section .pricing-plan-item.recommended .pricing-plan-header, #promotional-headline-section a.more-link, #promotional-headline-section a.more-link:visited, #hero-content-section .featured-info a.more-link, #hero-content-section .featured-info a.more-link:visited, .woocommerce .widget_price_filter .ui-slider .ui-slider-handle, .woocommerce .widget_price_filter .ui-slider .ui-slider-range, #slider-section .swiper-button-next:hover, #slider-section .swiper-button-prev:hover, #slider-section .swiper-button-next:focus, #slider-section .swiper-button-prev:focus, #slider-section .swiper-button-next:active, #slider-section .swiper-button-prev:active, .section .section-top-subtitle:before, .counter-section .counter-icon:before, .section-teams .social-link-plus, .section-latest-posts .new-cat a, .post-thumbnail .cat-links a, .section-latest-posts .new-cat a:visited, .post-thumbnail .cat-links a:visited, .main-navigation ul li.current-menu-item > a:before, .main-navigation ul li.current-menu-ancestor > a:before, .main-navigation ul li.current_page_item > a:before, .main-navigation ul li:hover > a:before, .main-navigation ul li a:hover:before, .main-navigation ul li a:focus:before, .main-navigation ul li a:active:before, .featured-grid-section.style-two .item-count span, .item-count:after, #tabs-nav li a:hover, #tabs-nav li.active a, #tabs-nav li.active a::after, #tabs-nav li a:hover::after, .section .section-title-wrap span.divider:before, #contact-form-section .contact-form-section:after, .featured-grid-section .item-count span, .featured-grid-section .item-count span, #wwd-section.style-one .wwd-block-item::before, mark, ins, .filter-content-content span.tags-links a, #primary-menu-toggle-mobile:hover, #header-top-toggle:hover, #primary-menu-toggle-mobile:active, #header-top-toggle:active, #primary-menu-toggle-mobile:focus, #header-top-toggle:focus, .section .section-title-wrap:before, #key-features-section.style-one .section-title-wrap .section-top-subtitle:before, .section .section-title-wrap.text-alignleft .section-top-subtitle:before, #hero-content-section.section .section-title-wrap .section-top-subtitle:before, #skill-team-section .section-title-wrap .section-top-subtitle:before, #featured-content-section.style-two .section-title-wrap .section-top-subtitle:before, #case-study-section .section-title-wrap .section-top-subtitle:before, #hww-section .section-title-wrap .section-top-subtitle:before, #featured-video-section .section-title-wrap .section-top-subtitle:before, #sticky-playlist .wp-playlist-tracks .wp-playlist-item.wp-playlist-playing, #sticky-playlist .wp-playlist-tracks .wp-playlist-item:hover, #hero-content-section a.more-link, #hero-content-section a.more-link:visited, .section.promotional-headline-section a.more-link, .section.promotional-headline-section a.more-link:visited {
+ background: #dd3333;   
+}
+#breadcrumb li a:hover, .bcn-breadctumb span a:hover, #breadcrumb li a:focus, .bcn-breadctumb span a:focus, #breadcrumb li a:active, .bcn-breadctumb span a:active, .section-portfolio .portfolio-content h3 a:hover, a:active, a:focus, a:hover, a.wwd-fonts-icon, a:active, h1 a:hover, h2 a:hover, h3 a:hover, h4 a:hover, h5 a:hover, h6 a:hover, h1 a:focus, h2 a:focus, h3 a:focus, h4 a:focus, h5 a:focus, h6 a:hover, h1 a:active, h2 a:active, h3 a:active, h4 a:active, h5 a:active, h6 a:active, .overlap-header .site-title a:hover, .overlap-header .site-title a:focus, .overlap-header .site-title a:active, #main-nav .main-navigation ul li.current-menu-item > a, #main-nav .main-navigation ul li.current-menu-ancestor > a, #main-nav .main-navigation ul li:hover > a, #main-nav .main-navigation ul li:hover > a, #main-nav .main-navigation ul li:hover > a, #main-nav .main-navigation ul ul li.current-menu-item > a, #main-nav .main-navigation ul ul li.current-menu-ancestor > a, #main-nav .main-navigation ul ul li.current_page_item > a, #main-nav .main-navigation ul ul li:hover > a, #main-nav .main-navigation ul ul li a:hover, #main-nav .main-navigation ul ul li a:focus, #main-nav .main-navigation ul ul li a:active, .search-toggle:hover, .search-toggle:focus, #breadcrumb li a:hover, #breadcrumb li a:focus, #breadcrumb li a:active, #breadcrumb, .search-toggle:active, .entry-title a:hover, .entry-title a:focus, .entry-title a:active, .entry-meta a:hover, .entry-meta a:focus, .entry-meta a:active, .sidebar ul li a:hover, .sidebar ul li a:focus, .sidebar ul li a:active, .comment-metadata > a:hover, .comment-metadata > a:focus, .comment-metadata > a:active, .nav-inner-wrapper.nav-black-bg .main-navigation ul li.current-menu-item > a, .nav-inner-wrapper.nav-black-bg .main-navigation ul li.current-menu-ancestor > a, .nav-inner-wrapper.nav-black-bg .main-navigation ul li.current_page_item > a, .nav-inner-wrapper.nav-black-bg .main-navigation ul li:hover > a, .nav-inner-wrapper.nav-black-bg .main-navigation ul li:hover > a, .nav-inner-wrapper.nav-black-bg .main-navigation ul li:hover > a, .section-teams .team-position, .counter-section .counter-icon i, .site-title a:hover, .site-title a:focus, .site-title a:active, .footer-widget-area ul li::before, .section .section-top-subtitle, .portfolio-filter a.current, .portfolio-filter a:hover, .section-counter .counter-icon i, .cart-contents a:hover, .cart-contents a:focus, .cart-contents a:active, .footer-widget-area a:active, .footer-widget-area a:focus, .footer-widget-area a:hover, .featured-page-section ul li:before, .key-features-section a.key-features-icon, .recent-work-filter button.current, .recent-work-filter button:hover, a.more-link, a.more-link:visited, .cart-contents a:hover, .cart-contents a:focus, .cart-contents a:active, .search-toggle:hover, .search-toggle:focus, .search-toggle:active, #slider-section a.flashy-popup-button i, .section-wwd a.wwd-fonts-icon, #quick-contact.layout-two a:active, #quick-contact.layout-two a:hover, #quick-contact.layout-two a:focus, #quick-contact.layout-two li:before, .entry-date-meta, .counter-section .counter-nos, .section-testimonial .testimonial-summary:before, #contact-form-section .contact-info-item i, a.more-link:hover, a.more-link:focus, a.more-link:active, .contact-icon, .section-testimonial .testimonial-summary p:before, .section-testimonial .testimonial-summary p:after, .pricing-section .pricing-plan-price, #hero-content-section a.hero-call-us i, #hero-content-section .hero-video i, #hww-section .hww-block-item h3::before, .page-content p a:hover, .entry-content p a:hover, .entry-summary p a:hover, .widget .textwidget a:hover, .comment-content a:hover, .section p a:hover, .page-content a:hover, .entry-content a:hover, .entry-summary a:hover, .widget .textwidget a:hover, .comment-content a:hover, .page-content p a:focus, .entry-content p a:focus, .entry-summary p a:focus, .widget .textwidget a:focus, .comment-content a:focus, .section p a:focus, .page-content a:focus, .entry-content a:focus, .entry-summary a:focus, .widget .textwidget a:focus, .comment-content a:focus, .page-content p a:active, .entry-content p a:active, .entry-summary p a:active, .widget .textwidget a:active, .comment-content a:active, .section p a:active, .page-content a:active, .entry-content a:active, .entry-summary a:active, .widget .textwidget a:active, .comment-content a:active {
+    color:#dd3333;
+}

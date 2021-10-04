@@ -1,0 +1,3084 @@
+# Translation of Plugins - Social Media Share Buttons Popup &amp; Pop Up Social Sharing Icons - Stable (latest release) in Chinese (China)
+# This file is distributed under the same license as the Plugins - Social Media Share Buttons Popup &amp; Pop Up Social Sharing Icons - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2021-06-29 08:27:33+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: zh_CN\n"
+"Project-Id-Version: Plugins - Social Media Share Buttons Popup &amp; Pop Up Social Sharing Icons - Stable (latest release)\n"
+
+#: views/sfsi_option_view5.php:214
+msgid "%1$sNew:%2$s The Premium Plugin also allows you to define the vertical distance between the icons (and set this differently for mobile vs. desktop): %3$sGo premium now%4$s or learn more.%5$s"
+msgstr "%1$s新增：%2$s高级版插件中，您还可以定义图标之间的垂直距离（并且手机端和桌面端可以有不同设置）：%3$s现在获取高级版%4$s或是了解更多。%5$s"
+
+#: views/sfsi_option_view5.php:203
+msgid "(Drag &amp; Drop)"
+msgstr "（拖动&amp; 放置）"
+
+#: views/sfsi_option_view1.php:229 views/sfsi_option_view1.php:247
+#: views/sfsi_option_view1.php:262 views/sfsi_option_view1.php:279
+#: views/sfsi_option_view1.php:295 views/sfsi_option_view1.php:314
+#: views/sfsi_option_view1.php:330 views/sfsi_option_view1.php:348
+msgid "It depends: "
+msgstr "视情况而定："
+
+#: views/sfsi_option_view6.php:250
+msgid "%1$sNew:%2$s We also added a Linkedin share-icon in the Premium Plugin. %3$sGo premium now%4$s or learn more.%5$s"
+msgstr "%1$s新增：%2$s高级版插件中，您可以使用Linkedin的分享图标。%3$s现在获取高级版%4$s或是了解更多。%5$s"
+
+#: views/sfsi_pop_content.php:621
+msgid "Close "
+msgstr "关闭"
+
+#: views/sfsi_pop_content.php:618
+msgid "Please ask! "
+msgstr "请提问！"
+
+#: views/sfsi_pop_content.php:618
+msgid "Still have questions? "
+msgstr "您还有问题吗？"
+
+#: views/sfsi_pop_content.php:616
+msgid "any reason"
+msgstr "任何原因"
+
+#: views/sfsi_pop_content.php:616
+msgid "if you‘re not satisfied for"
+msgstr "如果您不满意"
+
+#: views/sfsi_pop_content.php:616
+msgid "14 day money-back guarantee"
+msgstr "14天内退款保障"
+
+#: views/sfsi_pop_content.php:616
+msgid "We provide a "
+msgstr "我们提供"
+
+#: views/sfsi_pop_content.php:615
+msgid "for all future purchases"
+msgstr "用于将来所有的购买"
+
+#: views/sfsi_pop_content.php:615
+msgid "offer 20% discounts"
+msgstr "提供20%折扣"
+
+#: views/sfsi_pop_content.php:615
+msgid "One license is valid for one site (as support is included), but we "
+msgstr "一个许可证适用于一个网站（包括支持服务），但是我们"
+
+#: views/sfsi_pop_content.php:614
+msgid "Support and updates are limited to six months, however after that it will not be disabled, you can keep using the plugin (even if you don‘t renew"
+msgstr "支持和更新服务有效期是六个月，但期限结束后不会终止服务，您可以继续使用插件（即使您不更新"
+
+#: views/sfsi_pop_content.php:614
+msgid "Use it for lifetime:"
+msgstr "终身使用："
+
+#: views/sfsi_pop_content.php:613
+msgid "today: 40% off!"
+msgstr "现在：40%的折扣"
+
+#: views/sfsi_pop_content.php:613
+msgid "49.98 USD"
+msgstr "49.98美元"
+
+#: views/sfsi_pop_content.php:613
+msgid "starting at"
+msgstr "开始于"
+
+#: views/sfsi_pop_content.php:613
+msgid "priced really fairly"
+msgstr "价格公道"
+
+#: views/sfsi_pop_content.php:613
+msgid "The plugin is "
+msgstr "此插件是"
+
+#: views/sfsi_pop_content.php:612
+msgid "all premium features"
+msgstr "所有高级功能"
+
+#: views/sfsi_pop_content.php:612
+msgid "You‘ll get access to"
+msgstr "您将可以访问"
+
+#: views/sfsi_pop_content.php:606
+msgid "Click will establish a connection to Sellcodes.com"
+msgstr "点击之后会链接至Sellcodes.com"
+
+#: views/sfsi_pop_content.php:598
+msgid "How do you want to pay?"
+msgstr "您想用什么方式支付？"
+
+#: views/sfsi_pop_content.php:570
+msgid "I'm done!"
+msgstr "我完成了！"
+
+#: views/sfsi_pop_content.php:407
+msgid "Linkedin"
+msgstr "Linkedin"
+
+#: views/sfsi_pop_content.php:367
+msgid "Share"
+msgstr "分享"
+
+#: views/sfsi_pop_content.php:285
+msgid "RSS  "
+msgstr "RSS"
+
+#: views/sfsi_pop_content.php:279
+msgid "  Insert into post "
+msgstr "插入到文章"
+
+#: views/sfsi_pop_content.php:279
+msgid " 3. Click on  "
+msgstr "点击"
+
+#: views/sfsi_pop_content.php:278
+msgid "2. Upload the icon into the media gallery"
+msgstr "2.将图标上传到媒体库"
+
+#: views/sfsi_pop_content.php:277
+msgid " below"
+msgstr "下方"
+
+#: views/sfsi_pop_content.php:277
+msgid "Upload"
+msgstr "上传"
+
+#: views/sfsi_pop_content.php:277
+msgid "1. Click ons"
+msgstr "1.点击"
+
+#: views/sfsi_pop_content.php:274
+msgid "Here you can upload custom icons which perform the same actions as the standard icons."
+msgstr "在这里您可以上传自定义图标，它们和标准图标进行相同的操作。"
+
+#: views/sfsi_pop_content.php:272
+msgid "Upload custom icons"
+msgstr "上传自定义图标"
+
+#: views/sfsi_pop_content.php:262
+msgid "Don’t review and exit"
+msgstr "不评分，直接退出"
+
+#: views/sfsi_pop_content.php:260
+msgid "You’re a toughie. Last try: As a minimum, could you please review this plugin (with 5 stars)? It only takes a minute. Thank you! "
+msgstr "您真的很坚决呢。最后再问一次：至少，可以请您给这个插件评分吗（五星）？这只需要花一分钟的时间。谢谢您！"
+
+#: views/sfsi_pop_content.php:254
+msgid "Don’t activate link"
+msgstr "不要激活链接"
+
+#: views/sfsi_pop_content.php:253
+msgid "Ok, activate link"
+msgstr "好的，激活链接"
+
+#: views/sfsi_pop_content.php:251
+msgid "Ok, fine, however for using this plugin for FREE, please support us by activating a link back to our site:"
+msgstr "好的，但是，对于免费使用此插件，请激活返回到我们网站的链接以支持我们："
+
+#: views/sfsi_pop_content.php:245
+msgid "Deactivate it"
+msgstr "禁用它"
+
+#: views/sfsi_pop_content.php:244
+msgid "I want to see how it works"
+msgstr "我想看看它是如何工作的"
+
+#: views/sfsi_pop_content.php:243
+msgid "Ok, keep it active for the time being, "
+msgstr "好，现在先启用它，"
+
+#: views/sfsi_pop_content.php:235
+msgid "%1s Note: Also if you already offer a newsletter it makes sense to offer this option too, because it will get you %2s more readers %3s  , as explained %4s here. %5s "
+msgstr "%1s注意：如果您已经提供了发简讯的选项，再提供这个选项很明智，因为这能给您%2s带来更多读者%3s，参见%4s这里。%5s"
+
+#: views/sfsi_pop_content.php:213
+msgid "Move over the LinkedIn-icon… "
+msgstr "鼠标经过LinkedIn图标..."
+
+#: views/sfsi_pop_content.php:189
+msgid "Move over the Pinterest-icon…  "
+msgstr "鼠标经过Pinterest图标..."
+
+#: views/sfsi_pop_content.php:166
+msgid "Move over the YouTube-icon…  "
+msgstr "移至YouTube图标上方…"
+
+#: views/sfsi_pop_content.php:143
+msgid "Move over the Twiiter-icon… "
+msgstr "鼠标经过Twitter图标..."
+
+#: views/sfsi_pop_content.php:110
+msgid "Move over the Facebook-icon…"
+msgstr "鼠标经过Facebook图标..."
+
+#: views/sfsi_pop_content.php:59
+msgid "Insert into post "
+msgstr "插入至文章"
+
+#: views/sfsi_pop_content.php:59
+msgid "3. Click on "
+msgstr "3.点击"
+
+#: views/sfsi_pop_content.php:58
+msgid "2. Upload the icon into the media gallery!"
+msgstr "2.将图标上传到媒体库！"
+
+#: views/sfsi_pop_content.php:57
+msgid " below "
+msgstr "以下"
+
+#: views/sfsi_pop_content.php:57
+msgid "Upload "
+msgstr "上传"
+
+#: views/sfsi_pop_content.php:57
+msgid "1. Click on"
+msgstr "1.点击"
+
+#: views/sfsi_pop_content.php:55
+msgid "Steps:"
+msgstr "步骤："
+
+#: views/sfsi_pop_content.php:43
+msgid "ote: Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
+msgstr "注意：Lorem Ipsum是印刷及排版领域所常用的虚拟文字。曾经一位不知名的印刷工人打乱了一盒印刷字体进行混排，形成一个字体样本。从公元16世纪起，Lorem Ipsum就被作为此领域的标准文本使用。它不仅延续了五个世纪，还通过了电子排版的挑战，本身基本没有变化。在1960年代，Leatraset公司发布了印刷着Lorem Ipsum段落的纸张，从而广泛普及了它的使用。最近，桌面排版软件如Aldus PageMaker也包含了带有Lorem Ipsum的版本。"
+
+#: views/sfsi_pop_content.php:32
+msgid "Privacy Policy"
+msgstr "隐私政策"
+
+#: views/sfsi_pop_content.php:32
+msgid "We will treat your data (and your subscribers’ data!) highly confidentially, see our "
+msgstr "我们将对您（及您的订阅者）的数据高度保密，参见我们的"
+
+#: views/sfsi_pop_content.php:32
+msgid "follow.it"
+msgstr "follow.it"
+
+#: views/sfsi_pop_content.php:32
+msgid "This will create your FREE acccount on"
+msgstr "这将创建您的免费账户"
+
+#: views/sfsi_pop_content.php:28
+msgid "Give me access!"
+msgstr "授予我访问权限！"
+
+#: views/sfsi_pop_content.php:21
+msgid "Enter the email you want to use"
+msgstr "输入你想使用的邮箱"
+
+#: views/sfsi_option_view4.php:799
+msgid "Round icons"
+msgstr "圆形图标"
+
+#: views/sfsi_option_view4.php:791
+msgid "For which icons do you want to show the counts?"
+msgstr "您想显示哪些图标的点击量？"
+
+#: views/sfsi_option_view4.php:716
+msgid " We cannot track this. So enter the figure here: "
+msgstr "我们无法获取这一数据。请在这里输入数字："
+
+#: views/sfsi_option_view4.php:640
+msgid "Copy the access token, paste it into the plugin and click on “Save”."
+msgstr "复制访问令牌，粘贴到插件里，点击“保存”。"
+
+#: views/sfsi_option_view4.php:639
+msgid "Now you will be redirected to the redirect url (which you entered during app creation) and find your access token at the end of this url(For example: http://your-website.com/#access_token=< your access token>)"
+msgstr "现在您将被重定向到目标URL（此地址是您在创建应用时输入的），URL的末尾是您的访问令牌（例如：http://your-website.com/#access_token=< your access token>）"
+
+#: views/sfsi_option_view4.php:638
+msgid "Authorize your app to access your account info by clicking the “Authorize” button'."
+msgstr "点击“授权”按钮以授权应用访问您的账号信息。"
+
+#: views/sfsi_option_view4.php:637
+msgid "Copy the “Client id” and “Redirect url” you entered into the plugin. Also enter your Instagram User name. After that click on the “Generate token” button."
+msgstr "复制您在插件中输入的“客户ID”和“重定向URL”。同时，输入您的Instagram用户名。之后点击“生成令牌”按钮。"
+
+#: views/sfsi_option_view4.php:636
+msgid "Then click on “Register” button."
+msgstr "之后点击“注册”按钮。"
+
+#: views/sfsi_option_view4.php:635
+msgid "Fill out the form and make sure that the “Redirect url” is valid and uncheck the “Disable Implicit oAuth” under the security tab."
+msgstr "填写表格，确保“重定向URL”合法，并确保未勾选安全选项卡下的“禁用隐式OAuth验证”。"
+
+#: views/sfsi_option_view4.php:634
+msgid "Login and then click on “Register Your Application” to get to the “Manage Clients” section. On there click on the “Register a new client” button "
+msgstr "登录，点击“注册应用”，转到“客户管理”区，点击“注册新客户”按钮"
+
+#: views/sfsi_option_view4.php:633
+msgid "Go to "
+msgstr "转到"
+
+#: views/sfsi_option_view4.php:631
+msgid "To complete the process please follow these steps:"
+msgstr "为完成此流程，请参考以下步骤："
+
+#: views/sfsi_option_view4.php:626
+msgid "Enter Instagram Token:"
+msgstr "输入Instagram令牌："
+
+#: views/sfsi_option_view4.php:619
+msgid "For generate your app token you need to enter your \"Client Id\" and \"Redirect Url\".%1sGenerate Token%2s"
+msgstr "要生成应用令牌，您需要输入“客户ID” 和“重定向URL”。%1s生成令牌%2s"
+
+#: views/sfsi_option_view4.php:612
+msgid "Enter Instagram Redirect Url:"
+msgstr "输入Instagram重定向URL："
+
+#: views/sfsi_option_view4.php:608
+msgid "Enter Instagram Client Id:"
+msgstr "输入Instagram客户ID："
+
+#: views/sfsi_option_view4.php:604
+msgid "Enter Instagram User name:"
+msgstr "输入Instagram用户名："
+
+#: views/sfsi_option_view4.php:599
+msgid "Retrieve the number of Instagram followers"
+msgstr "获取Instagram粉丝数"
+
+#: views/sfsi_option_view4.php:574
+msgid "%1$sNew:%2$s In the Premium Plugin you can also automatically show the number of PINs from your Pinterest account, or of a specific board, or the number of your Pinterest followers. %3$sGo premium now%4$s or learn more.%5$s"
+msgstr "%1$s新增：%2$s高级版插件中，您也可以选择自动展示Pinterest账号的PIN码数量，某个特定的展示板，或是您的粉丝数。%3$s现在获取高级版%4$s或是了解更多。%5$s"
+
+#: views/sfsi_option_view4.php:567
+msgid "Retrieve the number of Pins"
+msgstr "获取PIN码"
+
+#: views/sfsi_option_view4.php:544
+msgid "Enter Youtube Channel Id:"
+msgstr "输入Youtube频道ID："
+
+#: views/sfsi_option_view4.php:538
+msgid "Enter Youtube User name:"
+msgstr "输入Youtube用户名："
+
+#: views/sfsi_option_view4.php:535
+msgid "Retrieve the number of Subscribers"
+msgstr "获取订阅者数"
+
+#: views/sfsi_option_view4.php:473
+msgid "5: Then click on \"Test OAuth\" at the top right and you will see the 4 token key"
+msgstr "5：之后点击右上角的“测试OAuth验证”，你将看到4个令牌键值"
+
+#: views/sfsi_option_view4.php:472
+msgid "4: Go to \"Keys and Access Tokens\" tab and click on \"Generate Token\" in the \"Token actions\" section at the bottom"
+msgstr "4：选择“密钥和访问令牌”选项卡，点击“令牌操作”底部的“生成令牌”"
+
+#: views/sfsi_option_view4.php:471
+msgid "3: Enter a random Name , Descriptions and Website URL "
+msgstr "3：输入随机名称，描述及网站链接"
+
+#: views/sfsi_option_view4.php:470
+msgid "2: Click on \"Create new app\""
+msgstr "2：点击“创建新应用”"
+
+#: views/sfsi_option_view4.php:469
+msgid "1: Go to"
+msgstr "1：转到"
+
+#: views/sfsi_option_view4.php:467
+msgid "To get this information:"
+msgstr "为获取这一信息："
+
+#: views/sfsi_option_view4.php:465
+msgid " in Twitter settings under question number 2."
+msgstr "在Twitter设置的第二个问题下面"
+
+#: views/sfsi_option_view4.php:465
+msgid "Follow me on Twitter:\""
+msgstr "在Twitter上关注我：“"
+
+#: views/sfsi_option_view4.php:465
+msgid "for"
+msgstr "为"
+
+#: views/sfsi_option_view4.php:465
+msgid "Username"
+msgstr "用户名"
+
+#: views/sfsi_option_view4.php:465
+msgid " Please make sure you have entered the"
+msgstr "请确保您已经输入"
+
+#: views/sfsi_option_view4.php:460
+msgid "Enter Access Token Secret:"
+msgstr "输入访问令牌密钥："
+
+#: views/sfsi_option_view4.php:456
+msgid "Enter Access Token:"
+msgstr "输入访问令牌："
+
+#: views/sfsi_option_view4.php:452
+msgid "Enter Consumer Secret:"
+msgstr "输入消费方Secret："
+
+#: views/sfsi_option_view4.php:448
+msgid "Enter Consumer Key:"
+msgstr "输入消费方密钥："
+
+#: views/sfsi_option_view4.php:405
+msgid "%1$sNote:%2$s This plugin uses %3$sone%4$s API shared by all users of this plugin. There is a limit (set by Facebook) how often this API can get the counts per day, so it may happen that it returns “0 counts”later in the day.%5$sTherefore we implemented a solution as part of our Premium Plugin where you can %6$seasily%7$s set up your own API in a few steps, which will fix this problem.%8$s or learn more.%9$s"
+msgstr "%1$s注意：%2$s本插件使用%3$s一个%4$s公用API接口。每日该接口可获取的点击量有限制（由Facebook设定），因此每天较晚时段可能会返回“0点击量”。%5$s因此，高级版插件中，我们提供了一个解决方案，即您可以%6$s轻松地%7$s设置个人API接口，只需要几步，就能解决此问题。%8$s或者查看更多。%9$s"
+
+#: views/sfsi_option_view4.php:394
+msgid "-tab on your facebook page)"
+msgstr "您的Facebook主页标签"
+
+#: views/sfsi_option_view4.php:393
+msgid "About"
+msgstr "关于"
+
+#: views/sfsi_option_view4.php:392
+msgid "(You'll find it at the bottom of the "
+msgstr "（你会在底部看到它"
+
+#: views/sfsi_option_view4.php:388
+msgid "of your Facebook page "
+msgstr "您Facebook个人主页的"
+
+#: views/sfsi_option_view4.php:380 views/sfsi_option_view4.php:388
+msgid "Retrieve the number of likes "
+msgstr "获取点赞数"
+
+#: views/sfsi_option_view4.php:380
+msgid "of your blog"
+msgstr "您的博客的"
+
+#: views/sfsi_option_view4.php:361 views/sfsi_option_view4.php:477
+#: views/sfsi_option_view4.php:519 views/sfsi_option_view4.php:550
+#: views/sfsi_option_view4.php:568 views/sfsi_option_view4.php:645
+msgid "Enter the figure manually:"
+msgstr "手动输入数字："
+
+#: views/sfsi_option_view4.php:360
+msgid "Retrieve the number of subscribers automatically"
+msgstr "自动获取订阅数量"
+
+#: views/sfsi_option_view4.php:337 views/sfsi_option_view4.php:670
+#: views/sfsi_option_view4.php:693 views/sfsi_option_view4.php:739
+#: views/sfsi_option_view4.php:762 views/sfsi_option_view4.php:785
+msgid "We cannot track this. So enter the figure here:"
+msgstr "我们无法获取这一数据。请在这里输入数字："
+
+#: views/sfsi_option_view4.php:318
+msgid "Please specify which counts should be shown:"
+msgstr "请选择要显示点击量的图标："
+
+#: views/sfsi_option_view4.php:313
+msgid "Dismiss"
+msgstr "忽略"
+
+#: views/sfsi_option_view4.php:301
+msgid ""
+"%1sImportant:%2sYour website used to be on http (before you enabled an SSL certificate to switch to https). We found share counts for your URLs on http which usually get lost\n"
+"                            after switch to https (because Facebook etc. provide the counts per url, and an url on https is a different url then one on http).%3s We found a solution for that%4s so that your share counts on http and https will\n"
+"                            be aggregated and your full number of share counts is restored. It is implemented in the Premium Plugin - %5sGet it now.%6s"
+msgstr "％1s重要：％2s您的网站以前位于http上（在您启用SSL证书以切换至https之前）。我们发现您切换到https后，在http上的网址的共享计数量通常会丢失，（因为Facebook等提供了每个URL的计数量，而https和http对应的URL不同）。％3s我们为您提供一种解决方案％4s，可以统计http和https上的计数量之和，从而恢复分享量的全部数据。高级版插件享有此功能-％5s立即获取。％6s"
+
+#: views/sfsi_option_view4.php:265
+msgid "Enough waffling. So do you want to display counts?"
+msgstr "您已经考虑很久了。所以您想展示计数量吗？"
+
+#: views/sfsi_option_view4.php:257
+msgid "Of course, if you start at 0, you shoot yourself in the foot with that. So we suggest that you only turn this feature on once you have a good number of followers/likes/shares (min. of 20 – no worries if it’s not too many, it should just not be 0). %1sNew:%2s In the Premium Plugin you can define a threshold (min. number of counts) when it will automatically switch to showing the counts. %3sGo Premium%4s"
+msgstr "如果您的计数量显示为0，显然不利于网站推广。因此，我们建议您拥有可观的粉丝量/点赞量/分享量（最少为20，只需要不为0，无需担心不够多）后，在使用此功能。%1s新增：%2高级版插件中，您可以设定一个阈值（最低计数量），使计数量超过此阈值时再显示。%3s获取高级版%4s"
+
+#: views/sfsi_option_view4.php:156
+msgid "Therefore, you can select to display the count next to your main icons, which will look like this (example for round icons):"
+msgstr "因此，您可以选择在主要图标旁边显示计数量，会是这样的效果（以圆形图标为例）："
+
+#: views/sfsi_option_view4.php:150
+msgid "It’s a psychological fact that people like to follow other people (as explained well in Robert Cialdini’s book “%1sInfluence%2s”), so when they see that your site has already a good number of Facebook likes, it’s more likely that they will subscribe/like/share your site than if it had 0."
+msgstr "人们喜欢从众，这是一种心理效应（Robert Cialdini的《影响力》一书中进行了详细的解释）。因此，相比点赞数为0的情况，当他们看到您的网站已经有大量的Facebook点赞数时，就非常有可能订阅/点赞/分享您的网站。"
+
+#: views/sfsi_option_view7.php:538
+msgid "%1$sNew:%2$s The Premium Plugin allows you to do much more with the pop-up, e.g. you can: show it when users try to leave your page, limit how often the pop-up is shown to the same user (e.g. only once per day), select to show the subscription form in the pop-up (which you designed in question 9). %3$sGo premium now%4$s or learn more.%5$s"
+msgstr "%1$s新增：%2$s高级版插件中，您可以对弹窗设置更多操作，例如，您可以：在用户想离开您的页面时展示弹窗，设置弹窗对同一用户的显示频率（如一天一次），选择是否在弹窗显示订阅表格（在问题9中设置）。%3$s现在获取高级版%4$s或是了解更多。%5$s"
+
+#: views/sfsi_option_view7.php:524
+msgid "Every time user scrolls to the end of the page"
+msgstr "每次用户向下滚动至页面底部"
+
+#: views/sfsi_option_view7.php:518
+msgid "seconds after the user arrived on the site"
+msgstr "用户进入网站后立刻"
+
+#: views/sfsi_option_view7.php:518
+msgid "Once"
+msgstr "当"
+
+#: views/sfsi_option_view7.php:514
+msgid "When shall the pop-up be shown?"
+msgstr "弹窗要在什么时候显示？"
+
+#: views/sfsi_option_view7.php:504
+msgid "Please hold the CTRL key to select multiple pages."
+msgstr "请按住CTRL键选择多个页面。"
+
+#: views/sfsi_option_view7.php:452
+msgid "On selected pages only"
+msgstr "只在已选择的页面"
+
+#: views/sfsi_option_view7.php:446
+msgid "On some pages"
+msgstr "在部分页面"
+
+#: views/sfsi_option_view7.php:440
+msgid "On all pages"
+msgstr "在所有页面"
+
+#: views/sfsi_option_view7.php:434
+msgid "Nowhere"
+msgstr "不显示"
+
+#: views/sfsi_option_view7.php:430
+msgid "Where shall the pop-up be shown?"
+msgstr "弹窗要在什么地方显示？"
+
+#: views/sfsi_option_view7.php:422
+msgid "In the Premium Plugin you can choose to display the text on the pop-up in a font already present in your theme"
+msgstr "高级版插件中，您可以选择在弹窗中应用主题字体"
+
+#: views/sfsi_option_view7.php:413
+msgid "Off"
+msgstr "关闭"
+
+#: views/sfsi_option_view7.php:411
+msgid "On"
+msgstr "在"
+
+#: views/sfsi_option_view7.php:407
+msgid "Shadow:"
+msgstr "阴影："
+
+#: views/sfsi_option_view7.php:395
+msgid "Thickness:<"
+msgstr "厚度：<"
+
+#: views/sfsi_option_view7.php:395 views/sfsi_option_view7.php:407
+msgid "Border"
+msgstr "边框"
+
+#: views/sfsi_option_view7.php:386
+msgid "Border Color:"
+msgstr "边框颜色："
+
+#: views/sfsi_option_view7.php:377
+msgid "Color:"
+msgstr "颜色："
+
+#: views/sfsi_option_view7.php:377
+msgid "Background"
+msgstr "背景"
+
+#: views/sfsi_option_view7.php:373
+msgid "Icon Box Layout"
+msgstr "图标框布局"
+
+#: views/sfsi_option_view7.php:281
+msgid "Text Options"
+msgstr "文本选项"
+
+#: views/sfsi_option_view7.php:277
+msgid " Design"
+msgstr "设计"
+
+#: views/sfsi_option_view7.php:277
+msgid "Text "
+msgstr "文本"
+
+#: views/sfsi_option_view4.php:164 views/sfsi_option_view4.php:170
+#: views/sfsi_option_view4.php:176 views/sfsi_option_view4.php:182
+#: views/sfsi_option_view4.php:189 views/sfsi_option_view4.php:195
+#: views/sfsi_option_view4.php:201 views/sfsi_option_view4.php:207
+#: views/sfsi_option_view4.php:213 views/sfsi_option_view4.php:219
+#: views/sfsi_option_view4.php:225 views/sfsi_option_view4.php:231
+#: views/sfsi_option_view4.php:237 views/sfsi_option_view4.php:243
+#: views/sfsi_option_view4.php:249 views/sfsi_option_view7.php:93
+#: views/sfsi_option_view7.php:105 views/sfsi_option_view7.php:117
+#: views/sfsi_option_view7.php:129 views/sfsi_option_view7.php:141
+#: views/sfsi_option_view7.php:153 views/sfsi_option_view7.php:165
+#: views/sfsi_option_view7.php:177 views/sfsi_option_view7.php:189
+#: views/sfsi_option_view7.php:201 views/sfsi_option_view7.php:213
+#: views/sfsi_option_view7.php:225 views/sfsi_option_view7.php:237
+#: views/sfsi_option_view7.php:249
+msgid "12k"
+msgstr "12k"
+
+#: views/sfsi_option_view7.php:83
+msgid "Enjoy this site? Please follow and like us!"
+msgstr "喜欢我们的网站吗？请关注我们并给我们点赞吧！"
+
+#: views/sfsi_option_view7.php:75
+msgid "You can increase the chances that people share or follow you by displaying a pop-up asking them to. You can define the design and layout below:"
+msgstr "您可以通过显示弹窗，让更多的人分享或关注。您可以在下方进行设计和布局："
+
+#: views/sfsi_option_view7.php:57
+msgid "Update: if you want many more features for your pop-ups, have a look at %1s MyPopUps. %2s"
+msgstr "更新：如果您希望弹窗具备更多功能，查看%1s我的弹窗。%2s"
+
+#: views/sfsi_other_banners.php:274
+msgid "by displaying more information than a standard Tweet. Attach images and automatically pull the titles & links of the posts to make them much more attractive and visual with the Ultimate Social Media"
+msgstr "通过显示比标准推文更多的信息。通过终极社交媒体，附加图像，自动提取文章的标题和链接，重点突出，夺人眼球"
+
+#: views/sfsi_other_banners.php:274
+msgid "Get more visibility on Twitter "
+msgstr "提高Twitter上的曝光度"
+
+#: views/sfsi_other_banners.php:238
+msgid "by adding social share icons to your product pages. More shares equals more publicity, and more publicity means more new customers."
+msgstr "方式是在您的产品页面添加社交分享图标。更多的分享带来更多宣传量，从而带来更多新客户。"
+
+#: views/sfsi_other_banners.php:234
+msgid "with the Ultimate Social Media"
+msgstr "和终极社交媒体"
+
+#: views/sfsi_other_banners.php:234
+msgid "Get more sales "
+msgstr "扩大销量"
+
+#: views/sfsi_other_banners.php:198
+msgid "– from more likes & shares with the Ultimatelysocial Premium Plugin. Or get a refund within 20 days."
+msgstr "——通过使用来自终极社交媒体插件高级版，获得更多点赞量和分享量。或在20天内退款。"
+
+#: views/sfsi_other_banners.php:163
+msgid "Get it now at 20% discount "
+msgstr "以20%的折扣获取"
+
+#: views/sfsi_other_banners.php:163
+msgid "you can request a review (at no extra charge) to check if your sharing icons are GDPR compliant."
+msgstr "您可以申请审核（不收取额外费用）以检查您的分享图标是否符合GDPR标准。"
+
+#: views/sfsi_other_banners.php:159
+msgid "– As part of the Ultimate Social Media"
+msgstr "——作为终极社交媒体的一部分"
+
+#: views/sfsi_other_banners.php:159
+msgid "Make sure your site is GDPR compliant "
+msgstr "确保您的站点符合GDPR标准"
+
+#: views/sfsi_other_banners.php:124
+msgid "is the most optimized sharing plugin for speed. It also includes support to help you optimize it for minimizing loading time."
+msgstr "这是速度最快的分享插件。这也包括支持，能帮助您最小化加载时间。"
+
+#: views/sfsi_other_banners.php:124
+msgid "– the Ultimate Social Media"
+msgstr "——终极社交媒体"
+
+#: views/sfsi_other_banners.php:85
+msgid "which you are using, resulting in more traffic for your site."
+msgstr "您使用的，为您的网站带来更多流量"
+
+#: views/sfsi_other_banners.php:85
+msgid "plugin"
+msgstr "插件"
+
+#: views/sfsi_other_banners.php:85
+msgid "It works very well with the "
+msgstr "这表现得非常好"
+
+#: views/sfsi_other_banners.php:82
+msgid "Get more traffic from your pictures"
+msgstr "通过您的图片获得更多流量"
+
+#: views/sfsi_other_banners.php:42
+msgid "which has a share count recovery feature."
+msgstr "这具备恢复分享量的特性。"
+
+#: views/sfsi_other_banners.php:42
+msgid "– However: we noticed that you still have share & like counts (from social media) on your old (http://) urls. If you don’t want to lose them, check out"
+msgstr "——然而，我们注意到您在旧的URL（http://开头）上也有分享量和点赞量的数据。如果您不想遗失这些数据，查看"
+
+#: views/sfsi_other_banners.php:42
+msgid "You’re on https, that’s great!"
+msgstr "您现在登上HTTPS了，很好！"
+
+#: views/sfsi_affiliate_banner.php:7
+msgid "Share the premium plugin and earn 40% of the purchase price!"
+msgstr "分享高级版插件，并赚取售价的40%！"
+
+#: views/deactivation/sfsi_deactivation_popup.php:109
+msgid "Just de-activate it"
+msgstr "只需要关闭它"
+
+#: views/deactivation/sfsi_deactivation_popup.php:97
+msgid "Cool - if it was a reason we colud learn from, please let us know in the Support Forum."
+msgstr "很好。如果这是我们可以改进的地方，请在支持论坛中告诉我们。"
+
+#: views/deactivation/sfsi_deactivation_popup.php:83
+msgid "De-activate plugin now"
+msgstr "现在关闭插件"
+
+#: views/deactivation/sfsi_deactivation_popup.php:80
+msgid "Thumbs up to that one!"
+msgstr "给这个点赞！"
+
+#: views/deactivation/sfsi_deactivation_popup.php:75
+msgid "premium version"
+msgstr "高级版"
+
+#: views/deactivation/sfsi_deactivation_popup.php:75
+msgid "I got the "
+msgstr "我得到了"
+
+#: views/deactivation/sfsi_deactivation_popup.php:65
+msgid "If you‘re not a Wordpress user yet, please sign up – it‘s quick! Once logged in you‘ll see a section at the bottom where you can ask your question."
+msgstr "如果您还不是一位Wordpress用户，请注册——这非常快！登录后，您会在底部看到提问区，您可以在提问区提出您的问题。"
+
+#: views/deactivation/sfsi_deactivation_popup.php:62
+#: views/deactivation/sfsi_deactivation_popup.php:100
+msgid "Go to Support Forum >"
+msgstr "前往支持论坛>"
+
+#: views/deactivation/sfsi_deactivation_popup.php:59
+msgid "so that we can fix it. We‘ll respond quickly! "
+msgstr "这样我们就可以解决了。我们会马上回复！"
+
+#: views/deactivation/sfsi_deactivation_popup.php:59
+msgid "let us know in the Support Forum what didn't work, "
+msgstr "请在支持论坛告诉我们您遇到了什么问题，"
+
+#: views/deactivation/sfsi_deactivation_popup.php:53
+msgid "doesn't work for me"
+msgstr "对我不起作用"
+
+#: views/deactivation/sfsi_deactivation_popup.php:53
+msgid "The plugin "
+msgstr "插件"
+
+#: views/deactivation/sfsi_deactivation_popup.php:31
+msgid "No, don't worry, there was a different reason, I want to de-activate it"
+msgstr "不，不用担心，是另外一个原因，我想要禁用它"
+
+#: views/deactivation/sfsi_deactivation_popup.php:26
+msgid "If you're not a Wordpress user yet, please sign up – it's quick! Once logged in you‘ll see a section at the bottom where you can ask your question."
+msgstr "如果您还不是一位Wordpress用户，请注册 - 很快！登录后，您会在底部看到提问区，您可以在提问区提出您的问题。"
+
+#: views/deactivation/sfsi_deactivation_popup.php:23
+msgid "Go to Support Forum>"
+msgstr "前往支持论坛>"
+
+#: views/deactivation/sfsi_deactivation_popup.php:20
+msgid "so that we can fix it. We‘ll respond quickly!"
+msgstr "这样我们就能解决它。我们会尽快回复的！"
+
+#: views/deactivation/sfsi_deactivation_popup.php:20
+msgid "let us know in the Support Forum what was the issue,"
+msgstr "请在支持论坛告诉我们您的问题，"
+
+#: views/deactivation/sfsi_deactivation_popup.php:19
+#: views/deactivation/sfsi_deactivation_popup.php:58
+msgid "PLEASE"
+msgstr "请"
+
+#: views/deactivation/sfsi_deactivation_popup.php:11
+msgid "Oh! You don\\'t like our plugin?"
+msgstr "什么！您不喜欢我们的插件吗？"
+
+#: views/sfsi_other_banners.php:42 views/sfsi_options_view.php:417
+msgid "Check the Theme"
+msgstr "查看主题"
+
+#: views/sfsi_options_view.php:395
+msgid "selections"
+msgstr "选择"
+
+#: views/sfsi_options_view.php:392
+msgid "Export"
+msgstr "导出"
+
+#: views/sfsi_options_view.php:385
+msgid "Save All Settings"
+msgstr "保存所有设置"
+
+#: views/sfsi_options_view.php:373
+msgid "increases sign ups"
+msgstr "提高注册量"
+
+#: views/sfsi_options_view.php:373
+msgid "Do you want to show a subscription form ("
+msgstr "您想展示订阅表单（"
+
+#: views/sfsi_options_view.php:368
+msgid "Do you want to display a pop-up, asking people to subscribe?"
+msgstr "您想展示弹窗让用户订阅吗？"
+
+#: views/sfsi_options_view.php:363
+msgid "Any other wishes for your main icons?"
+msgstr "您对主要的图标还有什么要求？"
+
+#: views/sfsi_options_view.php:358
+msgid "Do you want to display 'counts' next to your icons? "
+msgstr "您想在图标旁展示“计数量”吗？"
+
+#: views/sfsi_options_view.php:352
+msgid "animation do you want to give your icons?"
+msgstr "您想给图标添加什么动画？"
+
+#: views/sfsi_options_view.php:352
+msgid "What design  "
+msgstr "什么设计"
+
+#: views/sfsi_options_view.php:338
+msgid "Where shall they be displayed? "
+msgstr "它们应该在哪里展示？"
+
+#: views/sfsi_options_view.php:333
+msgid "What do you want the icons to do?"
+msgstr "您希望这些图标做什么？"
+
+#: views/sfsi_options_view.php:327
+msgid "Which icons do you want to show on your site? "
+msgstr "您想在网站上显示哪些图标？"
+
+#: views/sfsi_options_view.php:299
+msgid "Trouble logging in there?"
+msgstr "登录时遇到问题？"
+
+#: views/sfsi_options_view.php:297
+msgid "Open a support thread"
+msgstr "查看相关支持信息"
+
+#: views/sfsi_options_view.php:290
+msgid "& for free! :)"
+msgstr "& 免费！ :)"
+
+#: views/sfsi_options_view.php:289
+msgid "We'll try to respond quickly"
+msgstr "我们将很快回复"
+
+#: views/sfsi_options_view.php:288
+msgid "Just ask us in the support forum"
+msgstr "请在支持论坛告诉我们您的问题"
+
+#: views/sfsi_options_view.php:286
+msgid "Any Questions?"
+msgstr "您有什么问题吗？"
+
+#: views/sfsi_options_view.php:274 views/sfsi_options_view.php:318
+msgid "Learn more"
+msgstr "了解更多"
+
+#: views/sfsi_options_view.php:272 views/sfsi_options_view.php:316
+msgid "Go Premium"
+msgstr "获取高级版"
+
+#: views/sfsi_options_view.php:266
+msgid "go premium"
+msgstr "获取高级版"
+
+#: views/sfsi_options_view.php:264
+msgid ", then,"
+msgstr "，之后，"
+
+#: views/sfsi_options_view.php:264
+msgid "much more"
+msgstr "更多"
+
+#: views/sfsi_options_view.php:263
+msgid "and"
+msgstr "和"
+
+#: views/sfsi_options_view.php:263
+msgid "themed icons,"
+msgstr "主题图标，"
+
+#: views/sfsi_options_view.php:262
+msgid "animated icons,"
+msgstr "动画图标，"
+
+#: views/sfsi_options_view.php:261
+msgid "more icon design styles,"
+msgstr "更多图标设计风格，"
+
+#: views/sfsi_options_view.php:260
+msgid ", more placement options, better sharing features (eg: define the text and image that gets shared), optimization for mobile,"
+msgstr "，更多放置选项，更好的分享功能（例如：编辑要分享的文本和图像），针对移动设备的优化，"
+
+#: views/sfsi_options_view.php:260
+msgid "more likes & shares"
+msgstr "更多点赞量和分享量"
+
+#: views/sfsi_options_view.php:259
+msgid "If you want"
+msgstr "如果您想"
+
+#: views/sfsi_options_view.php:243
+msgid "Show intro"
+msgstr "显示介绍"
+
+#: views/sfsi_options_view.php:241
+msgid "Ultimate Social Media plugin"
+msgstr "终极社交媒体插件"
+
+#: views/sfsi_options_view.php:184
+msgid "Ok, Got it"
+msgstr "好的，明白了"
+
+#: views/sfsi_options_view.php:175
+msgid "Check out MyPopUps >>"
+msgstr "查看我的插件>>"
+
+#: views/sfsi_options_view.php:171
+msgid "codes, cookie notices etc.) we now have a separate service for it:"
+msgstr "代码，cookie提示等。）现在我们为此提供一个单独的服务："
+
+#: views/sfsi_options_view.php:170
+msgid "For all your pop-up needs (to get subscribers, show discount "
+msgstr "对于您所有的弹窗需求（获得更多订阅人数，展示折扣"
+
+#: views/sfsi_options_view.php:167
+msgid "Pop-ups:"
+msgstr "弹窗："
+
+#: views/sfsi_options_view.php:153
+msgid "Get it now >>"
+msgstr "现在获取>>"
+
+#: views/sfsi_options_view.php:146
+msgid "Seconds"
+msgstr "秒"
+
+#: views/sfsi_options_view.php:139
+msgid "Minutes"
+msgstr "分"
+
+#: views/sfsi_options_view.php:133
+msgid "Hours"
+msgstr "时"
+
+#: views/sfsi_options_view.php:126
+msgid "for the premium plugin which will expire in...."
+msgstr "距离高级版插件过期还有……"
+
+#: views/sfsi_options_view.php:125
+msgid "30% discount"
+msgstr "30%折扣"
+
+#: views/sfsi_options_view.php:125
+msgid "For newbies we offer a cool "
+msgstr "对于新用户，我们提供一个很棒的"
+
+#: views/sfsi_options_view.php:122
+msgid "Special discount:"
+msgstr "特别折扣："
+
+#: views/sfsi_options_view.php:109
+msgid "Simply answer the questions below (at least the first 3) - that's it!"
+msgstr "只需要回答下列问题（至少回答前面3个）——就大功告成了！"
+
+#: views/sfsi_options_view.php:108
+msgid "Get started:"
+msgstr "开始："
+
+#: views/sfsi_options_view.php:101
+msgid "Ultimate Social Media Plugin!"
+msgstr "终极社交媒体插件！"
+
+#: views/sfsi_options_view.php:101
+msgid "Welcome to the"
+msgstr "欢迎来到"
+
+#: views/sfsi_options_view.php:9
+msgid "We found errors in your javascript which may cause the plugin to not work properly. Please fix the error:"
+msgstr ""
+"我们发现您的javascript存在错误，导致插件不能正常工作。\n"
+"请修复错误："
+
+#: views/sfsi_aboutus.php:1
+msgid " or write to us at "
+msgstr "或是给我们发送电子邮件"
+
+#: views/sfsi_aboutus.php:1
+msgid "Please visit us at "
+msgstr "请访问我们的网址"
+
+#: views/sfsi_section_for_premium.php:346
+msgid "Check out the Premium Plugin >>"
+msgstr "查看高级版插件>>"
+
+#: views/sfsi_section_for_premium.php:336
+msgid "so much more"
+msgstr "更多"
+
+#: views/sfsi_section_for_premium.php:336
+msgid "...and "
+msgstr "...和"
+
+#: views/sfsi_section_for_premium.php:328
+msgid "More platforms"
+msgstr "更多平台"
+
+#: views/sfsi_section_for_premium.php:320
+msgid "Friendly support"
+msgstr "友好支持"
+
+#: views/sfsi_section_for_premium.php:312
+msgid "Faster loading"
+msgstr "快速加载"
+
+#: views/sfsi_section_for_premium.php:304
+msgid "Mobile optimization"
+msgstr "移动端优化"
+
+#: views/sfsi_section_for_premium.php:292
+msgid "Better icon placement"
+msgstr "更好的图标选择"
+
+#: views/sfsi_section_for_premium.php:284
+msgid "Themed icons"
+msgstr "主题图标"
+
+#: views/sfsi_section_for_premium.php:276
+msgid "More icon designs"
+msgstr "更多图标设计"
+
+#: views/sfsi_section_for_premium.php:268
+msgid "More Likes & Shares"
+msgstr "更多点赞量&转发量"
+
+#: views/sfsi_section_for_premium.php:251
+msgid "See what the Premium Plugin has to offer..."
+msgstr "查看高级版插件的功能..."
+
+#: views/sfsi_section_for_premium.php:250
+msgid "Like the free plugin?"
+msgstr "喜欢免费版插件？"
+
+#: views/sfsi_question3.php:106
+msgid "In the Premium Plugin you can also <b>exclude icons</b> from showing on certain pages."
+msgstr "在高级版插件中，您也可以在某些页面上设置<b>不显示图标</b>。"
+
+#: views/sfsi_question3.php:90
+msgid "On your Woocommerce product pages "
+msgstr "在您的Woocommerce产品页"
+
+#: views/sfsi_question3.php:69
+msgid "Premium feature"
+msgstr "高级版功能"
+
+#: views/sfsi_question3.php:68
+msgid "Show a Pinterest icon over images on mouse-over "
+msgstr "鼠标悬停时，在图像上显示Pinterest图标"
+
+#: views/sfsi_question3.php:20
+msgid "Please select one or multiple placement options:"
+msgstr "请选择一个或多个放置选项："
+
+#: views/sfsi_option_view3.php:407
+msgid "Need icons for another theme? Let us know in the %1$sSupport Forum%2$s."
+msgstr "需要其他主题的图标？请在%1$s支持论坛%2$s告诉我们。"
+
+#: views/sfsi_option_view3.php:384
+msgid "%1$sLet us create icons matching your site perfectly (both in terms of colors and shape). %2$sLearn more.%3$s"
+msgstr "%1$s让我们打造更多完美契合您网站的图标（颜色和形状都适合）。%2$s了解更多。%3$s"
+
+#: views/sfsi_option_view3.php:376
+msgid " Tailored -"
+msgstr "量身定做——"
+
+#: views/sfsi_option_view3.php:361
+msgid "Upload any icons you want."
+msgstr "上传任何您想要的图标。"
+
+#: views/sfsi_option_view3.php:353
+msgid "Custom Icons -"
+msgstr "自定义图标——"
+
+#: views/sfsi_option_view3.php:193
+msgid "Custom Icons "
+msgstr "自定义图标"
+
+#: views/sfsi_option_view3.php:180
+msgid "(for dark backgrounds)"
+msgstr "（在深色背景下）"
+
+#: views/sfsi_option_view3.php:180
+msgid "Transparent"
+msgstr "透明"
+
+#: views/sfsi_option_view3.php:174
+msgid "Shaded Light"
+msgstr "亮"
+
+#: views/sfsi_option_view3.php:168
+msgid "Shaded Dark"
+msgstr "暗"
+
+#: views/sfsi_option_view3.php:162
+msgid "Silver"
+msgstr "银色"
+
+#: views/sfsi_option_view3.php:154
+msgid "Black"
+msgstr "黑色"
+
+#: views/sfsi_option_view3.php:148
+msgid "Glossy"
+msgstr "光泽"
+
+#: views/sfsi_option_view3.php:142
+msgid "Crystal"
+msgstr "水晶"
+
+#: views/sfsi_option_view3.php:136
+msgid "Orange"
+msgstr "橙色"
+
+#: views/sfsi_option_view3.php:128
+msgid "Splash"
+msgstr "醒目"
+
+#: views/sfsi_option_view3.php:122
+msgid "Chrome Grey"
+msgstr "铬灰"
+
+#: views/sfsi_option_view3.php:116
+msgid "Chrome Blue"
+msgstr "铬蓝"
+
+#: views/sfsi_option_view3.php:110
+msgid "Cubes"
+msgstr "立方"
+
+#: views/sfsi_option_view3.php:102
+msgid "Cute"
+msgstr "可爱"
+
+#: views/sfsi_option_view3.php:96
+msgid "Thin"
+msgstr "细边"
+
+#: views/sfsi_option_view3.php:84
+msgid "(Premium)"
+msgstr "（高级版）"
+
+#: views/sfsi_option_view3.php:68 views/sfsi_option_view3.php:78
+msgid "Default"
+msgstr "默认"
+
+#: views/sfsi_option_view3.php:63
+msgid "Theme options"
+msgstr "主题设置"
+
+#: views/sfsi_option_view3.php:53
+msgid "The icons have been compressed by %1sShortpixel.com%2s for faster loading of your site. Thank you Shortpixel!"
+msgstr "图标已被%1sShortpixel.com%2s压缩，以便更快地加载您的网站。感谢Shortpixel！"
+
+#: views/sfsi_option_view3.php:46
+msgid "in an unintrusive manner"
+msgstr "并不显得突兀"
+
+#: views/sfsi_option_view3.php:46
+msgid "make your visitors aware of your icons"
+msgstr "让您的访客注意到您的图标"
+
+#: views/sfsi_option_view3.php:46
+msgid "A smart automatic animation can"
+msgstr "一个智能的动画效果可以"
+
+#: views/sfsi_option_view3.php:44
+msgid "more “credit”"
+msgstr "更多“推广”"
+
+#: views/sfsi_option_view3.php:44
+msgid "and gives your site"
+msgstr "并且给您的网站"
+
+#: views/sfsi_option_view3.php:44
+msgid "more professional"
+msgstr "更加专业"
+
+#: views/sfsi_option_view3.php:44
+msgid "It comes across as"
+msgstr "这显得"
+
+#: views/sfsi_option_view3.php:39
+msgid " A good & well-fitting design is not only nice to look at, but it increases chances that people will subscribe and/or share your site with friends:"
+msgstr "一个优雅、合适的设计不仅美观，而且能让更多人们订阅和/或与朋友分享您的网站："
+
+#: views/sfsi_option_view6.php:460
+msgid "Left aligned"
+msgstr "左对齐"
+
+#: views/sfsi_option_view6.php:454
+msgid "Text on icons:"
+msgstr "图标文本："
+
+#: views/sfsi_option_view6.php:443 views/sfsi_option_view6.php:448
+msgid "px"
+msgstr "像素"
+
+#: views/sfsi_option_view6.php:438
+msgid "Margins:"
+msgstr "边距："
+
+#: views/sfsi_option_view6.php:428
+msgid "Margin between icons:"
+msgstr "图标间距："
+
+#: views/sfsi_option_view6.php:419
+msgid "Gradient"
+msgstr "渐变"
+
+#: views/sfsi_option_view6.php:416 views/sfsi_option_view3.php:90
+msgid "Flat"
+msgstr "扁平"
+
+#: views/sfsi_option_view6.php:410
+msgid "Style:"
+msgstr "样式： "
+
+#: views/sfsi_option_view6.php:393
+msgid "with border radius"
+msgstr "项目边框半径"
+
+#: views/sfsi_option_view6.php:388
+msgid "Sharp"
+msgstr "尖锐"
+
+#: views/sfsi_option_view6.php:385
+msgid "Round"
+msgstr "圆角"
+
+#: views/sfsi_option_view6.php:379
+msgid "Edges:"
+msgstr "边缘："
+
+#: views/sfsi_option_view6.php:365
+msgid "Fully responsive"
+msgstr "完全响应"
+
+#: views/sfsi_option_view6.php:362
+msgid "Fixed icon width"
+msgstr "固定图标宽度"
+
+#: views/sfsi_option_view6.php:356
+msgid "Icons width:"
+msgstr "图标宽度："
+
+#: views/sfsi_option_view6.php:347
+msgid "Large"
+msgstr "大"
+
+#: views/sfsi_option_view6.php:344
+msgid "Medium"
+msgstr "中"
+
+#: views/sfsi_option_view6.php:341
+msgid "Small"
+msgstr "小"
+
+#: views/sfsi_option_view6.php:335
+msgid "Icons size:"
+msgstr "图标大小："
+
+#: views/sfsi_option_view6.php:331
+msgid "Design options"
+msgstr "设计选项"
+
+#: views/sfsi_option_view6.php:320 views/sfsi_question3.php:106
+msgid "See all features"
+msgstr "查看所有功能"
+
+#: views/sfsi_option_view6.php:317
+msgid ""
+"In our Premium Plugin you have many more placement options, e.g.\n"
+"                    place the icons you selected under question 1, place them also on your homepage\n"
+"                    (instead of only post’s pages), place them before posts (instead of only after\n"
+"                    posts) etc."
+msgstr ""
+"在我们的高级版插件中，您有更多的放置选项，例如\n"
+"                         问题1中选择的图标也可以放在您的主页上                         \n"
+"                         （而不是仅能放置在文章页），也可以放在文章开头（而不是仅能放在文章末尾）等。  "
+
+#: views/sfsi_option_view6.php:300
+msgid "Alignment of share icons:"
+msgstr "分享图标对齐方式："
+
+#: views/sfsi_option_view6.php:282
+msgid ""
+"%1sNew: %2s In the Premium Plugin you can choose to display the text before\n"
+"                        the sharing icons in a font of your choice. You can also define the %3s font\n"
+"                        size, type , and the margins below/above the icons.%4s %5s  Check\n"
+"                        it out.%6s"
+msgstr ""
+"%1s新增：%2s 高级版插件中，您可以自主选择文章所应用的字体，\n"
+"                         文末具有分享图标。您还可以定义%3s字体\n"
+"                         大小、类型和图标上/下边距。%4s %5s点击查看。%6s"
+
+#: views/sfsi_option_view6.php:266
+msgid "Text to appear before the sharing icons: "
+msgstr "分享图标前的文本："
+
+#: views/sfsi_option_view6.php:262
+msgid "Options:"
+msgstr "选项："
+
+#: views/sfsi_option_view6.php:243
+msgid "3. The Tweet-button allows quick tweeting of your article"
+msgstr "3. Tweet按钮能够快速发布您的文章"
+
+#: views/sfsi_option_view6.php:242
+msgid "2. Facebook is No.1 in «liking», so it’s a must have"
+msgstr "2. Facebook在«点赞量»方面排名第一，所以是必须的"
+
+#: views/sfsi_option_view6.php:241
+msgid "1. The follow-icon ensures that your visitors subscribe to your newsletter"
+msgstr "1. 关注图标确保您的访客订阅您的最新动态"
+
+#: views/sfsi_option_view6.php:238
+msgid "Those are usually all you need: "
+msgstr "您需要的通常是这些："
+
+#: views/sfsi_option_view6.php:172
+msgid " See all features"
+msgstr "查看所有功能"
+
+#: views/sfsi_option_view6.php:169
+msgid ""
+"In the Premium Plugin, we also added: Pinterest, Linkedin, WhatsApp, VK,\n"
+"                    OK, Telegram, Weibo, WeChat, Xing and the option to add custom icons. There are more placement options too, e.g.\n"
+"                    place the responsive icons before/after posts/pages, show them only on\n"
+"                    desktop/mobile, insert them manually (via shortcode)."
+msgstr ""
+"高级版插件中，新增：Pinterest、Linkedin、WhatsApp、VK、\n"
+"                     OK、Telegram、微博、微信、Xing以及添加自定义图标的选项。支持更多的放置选项，例如\n"
+"                     将响应式图标放在文章/页面开头/末尾，仅显示在\n"
+"                     桌面/移动设备，手动插入（通过简码）。"
+
+#: views/sfsi_option_view6.php:162
+msgid ""
+"* All icons have «sharing» feature enabled by default. If you want to give them a\n"
+"                  different function (e.g link to your Facebook page) then please click on «Define\n"
+"                  url» next to the icon."
+msgstr ""
+"* 默认情况下，所有图标都启用了«分享»功能。如果你想给图标设置\n"
+"                   其他功能（例如链接到您的Facebook页面），请点击图标旁边的«定义\n"
+"                   URL»。"
+
+#: views/sfsi_option_view6.php:154
+msgid "Cancel"
+msgstr "取消"
+
+#: views/sfsi_option_view6.php:152
+msgid "Define URL*"
+msgstr "编辑URL*"
+
+#: views/sfsi_option_view6.php:132
+msgid "Select Icons"
+msgstr "选择图标"
+
+#: views/sfsi_option_view6.php:121
+msgid "These are responsive & independent from the icons you selected elsewhere in the plugin."
+msgstr "这些是响应式图标，并且独立于您在插件其他地方选择的图标。"
+
+#: views/sfsi_option_view6.php:114
+msgid "Display the icons I selected above"
+msgstr "显示我上面选择的图标"
+
+#: views/sfsi_option_view6.php:108 views/sfsi_option_view4.php:809
+msgid "Original icons"
+msgstr "原始图标"
+
+#: views/sfsi_option_view6.php:102 views/sfsi_option_view4.php:819
+msgid "Responsive icons"
+msgstr "响应式图标"
+
+#: views/sfsi_option_view6.php:90
+msgid "Here you have two options:"
+msgstr "您有两个选项："
+
+#: views/sfsi_chat_on_admin_pannel.php:61
+msgid "Close window"
+msgstr "关闭窗口"
+
+#: views/sfsi_chat_on_admin_pannel.php:60
+msgid "We‘ll get back to you ASAP."
+msgstr "我们将尽快给您答复。"
+
+#: views/sfsi_chat_on_admin_pannel.php:59
+msgid "Thank you!"
+msgstr "谢谢您！"
+
+#: views/sfsi_chat_on_admin_pannel.php:47
+msgid "Your email:"
+msgstr "您的电子邮件："
+
+#: views/sfsi_chat_on_admin_pannel.php:40
+msgid "Your question:"
+msgstr "您的问题："
+
+#: views/sfsi_chat_on_admin_pannel.php:29
+msgid "quickly!"
+msgstr "很快！"
+
+#: views/sfsi_chat_on_admin_pannel.php:29
+msgid "We‘ll respond "
+msgstr "我们会回复得"
+
+#: views/sfsi_chat_on_admin_pannel.php:26
+msgid "Click here"
+msgstr "点击此处"
+
+#: views/sfsi_chat_on_admin_pannel.php:24
+msgid "Support Forum"
+msgstr "支持论坛"
+
+#: views/sfsi_chat_on_admin_pannel.php:19
+msgid "Please ask your question in the..."
+msgstr "请在……提问"
+
+#: views/sfsi_chat_on_admin_pannel.php:14
+msgid "(for the Premium plugin)"
+msgstr "（对于高级版插件）"
+
+#: views/sfsi_chat_on_admin_pannel.php:14
+msgid "Pre-sales question"
+msgstr "售前问题"
+
+#: views/sfsi_chat_on_admin_pannel.php:13
+msgid "(for the free plugin)"
+msgstr "（对于免费版插件）"
+
+#: views/sfsi_chat_on_admin_pannel.php:13
+msgid "Technical question"
+msgstr "技术问题"
+
+#: views/sfsi_chat_on_admin_pannel.php:9
+msgid "we'll still respond quickly"
+msgstr "我们将很快回复"
+
+#: views/sfsi_chat_on_admin_pannel.php:9
+msgid "No chat agent are available, However "
+msgstr "然而，没有聊天客服在线"
+
+#: views/sfsi_option_view5.php:529
+msgid "Show more useful tips for more sharing & traffic?"
+msgstr "显示更多有用的提示以获得更多分享量和流量？"
+
+#: views/sfsi_option_view5.php:528
+msgid "Tips"
+msgstr "提示"
+
+#: views/sfsi_option_view5.php:513
+msgid "Suppress error messages?"
+msgstr "隐藏错误消息？"
+
+#: views/sfsi_option_view5.php:512
+msgid "Error reporting"
+msgstr "错误报告"
+
+#: views/sfsi_option_view5.php:483
+msgid "Weibo:"
+msgstr "微博："
+
+#: views/sfsi_option_view5.php:477
+msgid "Ok:"
+msgstr "OK："
+
+#: views/sfsi_option_view5.php:473
+msgid "VK:"
+msgstr "VK："
+
+#: views/sfsi_option_view5.php:467
+msgid "Telegram:"
+msgstr "Telegram："
+
+#: views/sfsi_option_view5.php:463
+msgid "Instagram:"
+msgstr "Instagram："
+
+#: views/sfsi_option_view5.php:457
+msgid "Youtube:"
+msgstr "Youtube："
+
+#: views/sfsi_option_view5.php:453
+msgid "Pinterest:"
+msgstr "Pinterest："
+
+#: views/sfsi_option_view5.php:446
+msgid "WhatsApp:<"
+msgstr "WhatsApp：<"
+
+#: views/sfsi_option_view5.php:440
+msgid "WeChat:"
+msgstr "微信："
+
+#: views/sfsi_option_view5.php:436
+msgid "LinkedIn:"
+msgstr "LinkedIn："
+
+#: views/sfsi_option_view5.php:430
+msgid "Facebook:"
+msgstr "Facebook："
+
+#: views/sfsi_option_view5.php:426
+msgid "Twitter:"
+msgstr "Twitter："
+
+#: views/sfsi_option_view5.php:421
+msgid "Email:"
+msgstr "电子邮箱："
+
+#: views/sfsi_option_view5.php:418
+msgid "RSS:"
+msgstr "RSS："
+
+#: views/sfsi_option_view5.php:413
+msgid "If you’ve given your icon only one function (i.e. no pop-up where user can perform different actions) then you can define here what text will be displayed if a user moves his mouse over the icon:"
+msgstr "如果您只给图标设置一个功能（即没有用户可以执行不同操作的弹出窗口），那么可以设置用户将鼠标移到图标上时显示的文本："
+
+#: views/sfsi_option_view5.php:411
+msgid "Mouseover text"
+msgstr "鼠标悬停文本"
+
+#: views/sfsi_option_view5.php:398
+msgid "Note: This feature is currently only available in the Premium Plugin. %1$sGo premium now%2$s or learn more.%3$s"
+msgstr "注意：此功能目前仅在高级版插件中可用。%1$s现在获取高级版%2$s或是了解更多。%3$s"
+
+#: views/sfsi_option_view5.php:389
+msgid "Hide section for all"
+msgstr "对所有页面隐藏该区域"
+
+#: views/sfsi_option_view5.php:380
+msgid "Post"
+msgstr "文章"
+
+#: views/sfsi_option_view5.php:374
+msgid "Page"
+msgstr "页面"
+
+#: views/sfsi_option_view5.php:362
+msgid "On the pages where you edit your posts/pages, you’ll see a (new) section where you can define which pictures & text should be shared. This extra section is displayed on the following:"
+msgstr "在您编辑文章/页面时，有一个（新）区域用于编辑应分享的图片和文本。此额外区域显示在以下位置："
+
+#: views/sfsi_option_view5.php:361
+msgid "Sharing texts & pictures?"
+msgstr "分享文本或图片？"
+
+#: views/sfsi_option_view5.php:347
+msgid "This is not to be confused with making the icons permanently placed in the same position, which is possible in the %1$s Premium Plugin.%2$s"
+msgstr "不要将这与永久固定图标位置混淆，%1$s高级版插件%2$s中支持此功能。"
+
+#: views/sfsi_option_view5.php:336
+msgid "If you select «Yes» here, then the icons which you placed via %1$swidget%2$s or %3$sshortcode%4$s will still be visible on the screen as user scrolls down your page, i.e. they will stick at the top."
+msgstr "如果您选择«是»，那么即使用户向下滚动页面，通过%1$s小工具%2$s或是%3$s简码%4$s放置的图标仍会显示，即：它们会固定在页面顶部。"
+
+#: views/sfsi_option_view5.php:317
+msgid "Make icons stick?"
+msgstr "设置图标粘性？"
+
+#: views/sfsi_option_view5.php:308
+msgid "Sticky icons"
+msgstr "粘性图标"
+
+#: views/sfsi_option_view5.php:289
+msgid "If a user clicks on your icons, do you want to open the page in a new window?"
+msgstr "如果用户点击您的图标，要在新窗口中打开页面吗？"
+
+#: views/sfsi_option_view5.php:288
+msgid "New window"
+msgstr "新窗口"
+
+#: views/sfsi_option_view5.php:276
+msgid "%1$s New: %2$s In the Premium Plugin you can show the icons vertically and give them different alignment options for icons placed on mobile. %3$s  See all features. %4$s"
+msgstr "%1$s新增：%2$s高级版插件中，您可以设置图标垂直显示，并且移动设备上可以设置不同的图标对齐选项。%3$s查看所有功能。%4$s"
+
+#: views/sfsi_option_view5.php:261
+msgid "(with respect to icons in the first row; only relevant if your icons show in two or more rows)"
+msgstr "（相对于第一行中的图标进行更改；仅当您的图标以两行或更多行显示时才能够进行此改动）"
+
+#: views/sfsi_option_view5.php:259
+msgid "Alignment of icons In the second row:"
+msgstr "第二行图标对齐方式："
+
+#: views/sfsi_option_view5.php:247
+msgid "Alignment of icons if placed via shortcode:"
+msgstr "通过简码放置图标的对齐方式："
+
+#: views/sfsi_option_view6.php:303 views/sfsi_option_view5.php:241
+#: views/sfsi_option_view5.php:253 views/sfsi_option_view5.php:268
+msgid "Left"
+msgstr "左边"
+
+#: views/sfsi_option_view6.php:307 views/sfsi_option_view5.php:240
+#: views/sfsi_option_view5.php:252 views/sfsi_option_view5.php:267
+msgid "Right"
+msgstr "右边"
+
+#: views/sfsi_option_view5.php:234
+msgid "Alignment of icons within a widget:"
+msgstr "小工具中图标的对齐方式："
+
+#: views/sfsi_option_view5.php:230
+msgid "define this"
+msgstr "设置这个"
+
+#: views/sfsi_option_view5.php:230
+msgid "Leave empty if you don't want to"
+msgstr "请留空，如果您不想"
+
+#: views/sfsi_option_view5.php:228
+msgid "Icons per row:"
+msgstr "每行图标数量："
+
+#: views/sfsi_option_view5.php:226
+msgid "Alignments"
+msgstr "对齐方式"
+
+#: views/sfsi_option_view5.php:209
+msgid "Spacing between icons:"
+msgstr "图标间距："
+
+#: views/sfsi_option_view5.php:209
+msgid " tall"
+msgstr "高"
+
+#: views/sfsi_option_view5.php:209
+msgid "pixels wide "
+msgstr "像素宽"
+
+#: views/sfsi_option_view5.php:209
+msgid "Size:"
+msgstr "大小："
+
+#: views/sfsi_option_view5.php:208
+msgid "Size &amp; spacing of your icons"
+msgstr "尺寸&amp; 图标间距"
+
+#: views/sfsi_option_view5.php:130
+msgid "Order of your icons"
+msgstr "您的图标顺序"
+
+#: views/subviews/que4/banner.php:144
+msgid "See all features Premium Plugin"
+msgstr "查看高级版插件所有功能"
+
+#: views/subviews/que4/banner.php:128
+msgid "View more"
+msgstr "查看更多"
+
+#: views/subviews/que4/banner.php:75
+msgid "In our Premium Plugin we added:"
+msgstr "高级版插件中，新增："
+
+#: views/subviews/que4/animatethem.php:225
+msgid "seconds"
+msgstr "秒"
+
+#: views/subviews/que4/animatethem.php:223
+msgid "Every"
+msgstr "每"
+
+#: views/subviews/que4/animatethem.php:215
+msgid "When the site is first loaded"
+msgstr "网站首次加载时"
+
+#: views/subviews/que4/animatethem.php:207
+msgid "Shuffle them automatically"
+msgstr "将他们随机排序"
+
+#: views/subviews/que4/animatethem.php:191
+msgid "Above options are available in the"
+msgstr "以上选项见于"
+
+#: views/subviews/que4/animatethem.php:183
+msgid "Flip"
+msgstr "翻转"
+
+#: views/subviews/que4/animatethem.php:181
+msgid "No effect"
+msgstr "无效果"
+
+#: views/subviews/que4/animatethem.php:175
+msgid "Transition effect to those icons"
+msgstr "图标动画过渡效果"
+
+#: views/subviews/que4/animatethem.php:121
+msgid "Show other icons on mouse-over (Only applied for Desktop Icons)"
+msgstr "鼠标悬停时显示其他图标（仅支持桌面图标）"
+
+#: views/subviews/que4/animatethem.php:109
+msgid "Greyed-out options are available in the"
+msgstr "灰色的功能选项适用于"
+
+#: views/subviews/que4/animatethem.php:97
+msgid "(Icons turn from full color to shadow)"
+msgstr "（图标颜色渐隐）"
+
+#: views/subviews/que4/animatethem.php:95
+msgid "Fade Out"
+msgstr "淡出"
+
+#: views/subviews/que4/animatethem.php:81
+msgid "(Both fade in and scale effects)"
+msgstr "（淡入和缩放效果）"
+
+#: views/subviews/que4/animatethem.php:79
+msgid "FCombo"
+msgstr "组合效果：放大渐显"
+
+#: views/subviews/que4/animatethem.php:59
+msgid "(Icons become bigger)"
+msgstr "（图标变大）"
+
+#: views/subviews/que4/animatethem.php:57
+msgid "Scale"
+msgstr "缩放"
+
+#: views/subviews/que4/animatethem.php:43
+msgid "(Icons turn from shadow to full color)"
+msgstr "（图标颜色渐显）"
+
+#: views/subviews/que4/animatethem.php:41
+#: views/subviews/que4/animatethem.php:111
+msgid "Fade In"
+msgstr "淡入"
+
+#: views/subviews/que4/animatethem.php:23
+msgid "Same-icon effects"
+msgstr "同图标效果"
+
+#: views/subviews/que4/animatethem.php:13
+msgid "Mouse-Over effects"
+msgstr "鼠标悬停效果"
+
+#: views/subviews/que4/animatethem.php:5
+msgid "Animate them"
+msgstr "为它们增加动画效果"
+
+#: views/subviews/que3/sfsi_que3_place_via_float.php:243
+msgid "Want to disable the floating icons on mobile?"
+msgstr "想要禁用移动设备上的悬浮图标？"
+
+#: views/subviews/que3/sfsi_que3_place_via_float.php:224
+msgid "The icons will be floating on your page. If you want them  %1$s \"sticky\"%2$s, please check out the %3$s Premium Plugin%4$s. Also in the Premium Plugin you can show the icons%5$s vertically%6$s, and give them  %7$s different settings for mobile. %8$s"
+msgstr "图标将悬浮在您的页面上。如果您希望它们具有%1$s“粘性”%2$s，请查看%3$s高级插件%4$s。此外，在高级插件中，您可以设置图标垂直显示%5$s %6$s，并且可以在%7$s移动设备上设置不同的图标对齐选项。%8$s"
+
+#: views/subviews/que3/sfsi_que3_place_via_float.php:204
+msgid "Right:"
+msgstr "右边："
+
+#: views/subviews/que3/sfsi_que3_place_via_float.php:192
+msgid "Left:"
+msgstr "左边："
+
+#: views/subviews/que3/sfsi_que3_place_via_float.php:180
+msgid "Bottom:"
+msgstr "底部："
+
+#: views/subviews/que3/sfsi_que3_place_via_float.php:172
+#: views/subviews/que3/sfsi_que3_place_via_float.php:184
+#: views/subviews/que3/sfsi_que3_place_via_float.php:196
+#: views/subviews/que3/sfsi_que3_place_via_float.php:208
+#: views/sfsi_option_view5.php:209
+msgid "Pixels"
+msgstr "像素"
+
+#: views/subviews/que3/sfsi_que3_place_via_float.php:168
+msgid "Top:"
+msgstr "顶部："
+
+#: views/subviews/que3/sfsi_que3_place_via_float.php:161
+msgid "Margin From:"
+msgstr "底外距："
+
+#: views/subviews/que3/sfsi_que3_place_via_float.php:145
+msgid "Bottom right"
+msgstr "右下方"
+
+#: views/subviews/que3/sfsi_que3_place_via_float.php:133
+msgid "Center bottom"
+msgstr "底部居中"
+
+#: views/subviews/que3/sfsi_que3_place_via_float.php:119
+msgid "Bottom left"
+msgstr "左下方"
+
+#: views/subviews/que3/sfsi_que3_place_via_float.php:103
+msgid "Center right"
+msgstr "右侧居中"
+
+#: views/subviews/que3/sfsi_que3_place_via_float.php:89
+msgid "Center left"
+msgstr "左侧居中"
+
+#: views/subviews/que3/sfsi_que3_place_via_float.php:73
+msgid "Top right"
+msgstr "右上方"
+
+#: views/subviews/que3/sfsi_que3_place_via_float.php:61
+msgid "Center top"
+msgstr "顶部居中"
+
+#: views/subviews/que3/sfsi_que3_place_via_float.php:47
+msgid "Top left"
+msgstr "左上方"
+
+#: views/subviews/que3/sfsi_que3_place_via_float.php:31
+msgid "Define the location:"
+msgstr "出现位置："
+
+#: views/subviews/que3/sfsi_que3_place_via_float.php:27
+msgid "Floating over your website's pages"
+msgstr "浮在您网站的页面之上"
+
+#: views/subviews/que3/sfsi_que3_place_via_widget.php:31
+msgid " and drag & drop it where you want to show them!"
+msgstr "并将其拖放到您想要显示的位置！"
+
+#: views/subviews/que3/sfsi_que3_place_via_widget.php:31
+msgid "widget area"
+msgstr "小工具区域"
+
+#: views/subviews/que3/sfsi_que3_place_via_widget.php:31
+msgid "Go to the "
+msgstr "前往"
+
+#: views/subviews/que3/sfsi_que3_place_via_widget.php:29
+msgid "Show them via a widget"
+msgstr "小工具显示它们"
+
+#: views/subviews/que3/sfsi_que3_place_via_after_posts.php:17
+msgid "Show icons after posts"
+msgstr "文章末尾显示图标"
+
+#: views/subviews/que3/sfsi_que3_place_via_shortcode.php:53
+msgid ""
+" where - as part of our service - we can place the icons for you, making theme adjustments\n"
+"\t\t\t\t\twhere needed. This ensures the perfect appearance (on all devices) for your icons."
+msgstr ""
+"我们的服务包括为您放置图标，在需要的地方进行调整以适应主题。\n"
+"\t\t\t\t\t这确保了您的图标外观合适（在所有设备上）。"
+
+#: views/subviews/que3/sfsi_que3_place_via_shortcode.php:52
+msgid "Premium plugin"
+msgstr "高级版插件"
+
+#: views/subviews/que3/sfsi_que3_place_via_shortcode.php:52
+msgid "You can try via shortcode (see above), however if you don't want any hassle, check out our"
+msgstr "您可以尝试使用简码（见上），但是如果您不想这么麻烦，请查看我们的"
+
+#: views/subviews/que3/sfsi_que3_place_via_shortcode.php:49
+msgid " Placing icons in your theme's header can be tricky / technical as CSS & PHP know-how is required (as every theme is different, no 'automatic' placement is possible)."
+msgstr "在您的主题中，标题内部放置图标可能很棘手/技术性强，需要CSS和PHP专业知识（每个主题都不同，所以不可能“自动”放置）。"
+
+#: views/subviews/que3/sfsi_que3_place_via_shortcode.php:45
+msgid "In your theme's header"
+msgstr "在您主题的标题"
+
+#: views/subviews/que3/sfsi_que3_place_via_shortcode.php:32
+msgid "Premium Plugin."
+msgstr "高级版插件。"
+
+#: views/subviews/que3/sfsi_que3_place_via_shortcode.php:32
+msgid "? Check out the"
+msgstr "？查看"
+
+#: views/subviews/que3/sfsi_que3_place_via_shortcode.php:32
+msgid " different settings for mobile"
+msgstr "不同设置用于移动设备"
+
+#: views/subviews/que3/sfsi_que3_place_via_shortcode.php:32
+msgid " in the shortcode container? Or need"
+msgstr "在简码容器中？或是需要"
+
+#: views/subviews/que3/sfsi_que3_place_via_shortcode.php:32
+msgid "centralize the icons"
+msgstr "图标居中"
+
+#: views/subviews/que3/sfsi_que3_place_via_shortcode.php:32
+msgid " or "
+msgstr "或"
+
+#: views/subviews/que3/sfsi_que3_place_via_shortcode.php:32
+msgid "vertically"
+msgstr "垂直"
+
+#: views/subviews/que3/sfsi_que3_place_via_shortcode.php:32
+msgid "Want to show icons"
+msgstr "想要显示图标"
+
+#: views/subviews/que3/sfsi_que3_place_via_shortcode.php:30
+msgid "Or, place the icons directly into our (theme) codes by using"
+msgstr "或者，将图标直接放入我们的（主题）代码中，方法是使用"
+
+#: views/subviews/que3/sfsi_que3_place_via_shortcode.php:28
+msgid " to place the icons anywhere you want."
+msgstr "将图标放置在任何您想要的位置。"
+
+#: views/subviews/que3/sfsi_que3_place_via_shortcode.php:28
+msgid "Please use the shortcode"
+msgstr "请使用简码"
+
+#: views/subviews/que3/sfsi_que3_place_via_shortcode.php:24
+msgid "Place via shortcode"
+msgstr "通过简码放置"
+
+#: views/sfsi_option_view2.php:655
+msgid "%1$sNew:%2$s In the Premium Plugin you can also give custom icons the feature that when people click on it, they can call you, or send you an SMS. %3$sGo premium now%4$s or learn more.%5$s"
+msgstr "%1$s新增：%2$s高级版插件中，您还可以为自定义图标提设置功能，当人们点击时可以给您打电话或发送短信。%3$s立即获取高级版%4$s或了解更多。%5$s"
+
+#: views/sfsi_option_view2.php:642
+msgid "Link :"
+msgstr "链接 ："
+
+#: views/sfsi_option_view2.php:640
+msgid "Where do you want this icon to link to?"
+msgstr "您希望此图标链接到什么地方？"
+
+#: views/sfsi_option_view2.php:603
+msgid "%1$sNew:%2$s In our Premium Plugin you can now give OK icon other functions too, e.g. %3$slike your website/blog%4$s, subscribe/follow you on OK. %5$sGo premium now%6$s or learn more.%7$s"
+msgstr "%1$s新增：%2$s高级版插件中，您还可以为OK图标设置其他功能，例如%3$s点赞您的网站/博客%4$s，在OK上订阅/关注您。%5$s立即获取高级版%6$s或了解更多。%7$s"
+
+#: views/sfsi_option_view2.php:598
+msgid "Visit me on OK:"
+msgstr "访问我的OK："
+
+#: views/sfsi_option_view2.php:596
+msgid "When clicked on, users will get directed to your OK page."
+msgstr "点击后，用户将跳转至您的OK页面。"
+
+#: views/sfsi_option_view2.php:594
+msgid "OK"
+msgstr "OK"
+
+#: views/sfsi_option_view2.php:577
+msgid "%1$sNew:%2$s In our Premium Plugin you can now give your VK icon sharing functionality too, e.g. %3$sshare your website/blog%4$s with friends. %5$sGo premium now%6$s or learn more.%7$s"
+msgstr "%1$s新增：%2$s高级版插件中，您也可以给VK图标设置分享功能，例如%3$s与朋友分享您的网站/博客%4$s。%5$s立即获取高级版%6$s或了解更多。%7$s"
+
+#: views/sfsi_option_view2.php:572
+msgid "Visit me on VK:"
+msgstr "访问我的VK："
+
+#: views/sfsi_option_view2.php:570
+msgid "When clicked on, users will get directed to your VK page."
+msgstr "点击后，用户将跳转至您的VK页面。"
+
+#: views/sfsi_option_view2.php:550
+msgid "%1$sNew:%2$s In our Premium Plugin you can now give Weibo icon other functions too, e.g. %3$syour website/blog, share your website/blog%4$s on Weibo. %5$sGo premium now%6$s or learn more.%7$s"
+msgstr "%1$s新增：%2$s高级版插件中，您还可以为微博图标设置其他功能，例如%3$s您的网站/博客，在微博上分享您的网站/博客%4$s。%5$s立即获取高级版%6$s或了解更多。%7$s"
+
+#: views/sfsi_option_view2.php:545
+msgid "Visit me on Weibo:"
+msgstr "访问我的微博："
+
+#: views/sfsi_option_view2.php:543
+msgid "When clicked on, users will get directed to your Weibo page."
+msgstr "点击后，用户将跳转至您的微博页面。"
+
+#: views/sfsi_option_view2.php:525
+msgid "%1$sNew:%2$s In our Premium Plugin you can define what text will get shared, and also give the icon the feature to send you a WhatsApp message. %3$sGo premium now%4$s or learn more.%5$s"
+msgstr "%1$s新增：%2$s高级版插件中，您可以编辑要分享的文本，还可以为图标设置向您发送WhatsApp消息的功能。%3$s立即获取高级版%4$s或了解更多。%5$s"
+
+#: views/sfsi_option_view2.php:520
+msgid "When clicked on, your website/blog will be shared on WhatsApp."
+msgstr "点击后，您的网站/博客将分享到WhatsApp。"
+
+#: views/sfsi_option_view2.php:500
+msgid "%1$sNew:%2$s In our Premium Plugin you can also allow users to %3$sfollow you%4$s on WeChat. %5$sGo premium now%6$s or learn more.%7$s"
+msgstr "%1$s新增：%2$s高级版插件中，您还可以允许用户在微信上%3$s关注您%4$s。%5$s立即获取高级版%6$s或了解更多。%7$s"
+
+#: views/sfsi_option_view2.php:495
+msgid "When clicked on, your website/blog will be shared on WeChat"
+msgstr "点击后，您的网站/博客将分享到微信"
+
+#: views/sfsi_option_view2.php:476
+msgid "%1$sNew:%2$s In our Premium Plugin you can now give your Telegram icon sharing functionality too, e.g. %3$s share your website/blog with friends. %4$sGo premium now%5$s or learn more.%6$s"
+msgstr "%1$s新增：%2$s高级版插件中，您也可以设置Telegram图标的分享功能，例如%3$s与朋友分享您的网站/博客。%4$s立即获取高级版%5$s或了解更多。%6$s"
+
+#: views/sfsi_option_view2.php:469
+msgid "My Telegram username"
+msgstr "我的Telegram用户名"
+
+#: views/sfsi_option_view2.php:464
+msgid "Pre-filled message"
+msgstr "预填信息"
+
+#: views/sfsi_option_view2.php:460
+msgid "Clicking on this icon will allow users to contact you on Telegram."
+msgstr "单击此图标，允许用户通过Telegram与您联系。"
+
+#: views/sfsi_option_view2.php:451
+msgid "You need to be logged in to Linkedin to be able to use it."
+msgstr "您需要登录Linkedin才能使用它。"
+
+#: views/sfsi_option_view2.php:451
+msgid "To find your Product or Company ID, you can use their ID lookup tool at"
+msgstr "要查找您的产品或公司ID，您可以使用相应的ID查找工具，点击"
+
+#: views/sfsi_option_view2.php:448
+msgid "Recommend my business or product on Linkedin:"
+msgstr "在Linkedin上推荐我的业务或产品："
+
+#: views/sfsi_option_view2.php:446
+msgid "Share my page on LinkedIn"
+msgstr "在LinkedIn上分享我的页面"
+
+#: views/sfsi_option_view2.php:444
+msgid "Follow me on Linkedin:"
+msgstr "关注我的Linkedin："
+
+#: views/sfsi_option_view2.php:443
+msgid "Visit my Linkedin page at:"
+msgstr "点击访问我的Linkedin页面："
+
+#: views/sfsi_option_view2.php:442
+msgid "The LinkedIn icon should allow users to... "
+msgstr "LinkedIn图标应该允许用户……"
+
+#: views/sfsi_option_view2.php:436
+msgid " You find your ID in the link of your profile page, e.g. https://www.linkedin.com/profile/view?id=%1s8539887%2s&trk=nav_responsive_tab_profile_pic"
+msgstr "您可以在个人资料页面的链接中找到您的ID，例如https://www.linkedin.com/profile/view?id=%1s8539887%2s&trk=nav_responsive_tab_profile_pic"
+
+#: views/sfsi_option_view2.php:427
+msgid " The LinkedIn icon can perform several actions. Pick below which ones it should perform. If you select several options, then users can select what they want to do %1s (see an example) %2s "
+msgstr "LinkedIn图标可以执行多种操作。在下面选择您希望执行的操作。 如果您选择多个，则用户可以选择他们想要执行的操作%1s（参见示例）%2s"
+
+#: views/sfsi_option_view2.php:415
+msgid "URL:"
+msgstr "URL："
+
+#: views/sfsi_option_view2.php:414
+msgid "When clicked on, users will get directed to your Instagram page."
+msgstr "点击后，用户将跳转至您的Instagram页面。"
+
+#: views/sfsi_option_view2.php:405
+msgid "Pin my blog on Pinterest (+1)"
+msgstr "在Pinterest上收藏我的博客（+1）"
+
+#: views/sfsi_option_view2.php:404
+msgid "Visit my Pinterest page at:"
+msgstr "点击访问我的Pinterest页面："
+
+#: views/sfsi_option_view2.php:403
+msgid "The Pinterest icon should allow users to..."
+msgstr "Pinterest图标应该允许用户……"
+
+#: views/sfsi_option_view2.php:397
+msgid " The Pinterest icon can perform several actions. Pick below which ones it should perform. If you select several options, then users can select what they want to do %1s (see an example) %2s "
+msgstr "Pinterest图标可以执行多种操作。在下面选择您希望执行的操作。 如果您选择多个，则用户可以选择他们想要执行的操作%1s（参见示例）%2s"
+
+#: views/sfsi_option_view2.php:378
+msgid "ChannelId::"
+msgstr "频道ID："
+
+#: views/sfsi_option_view2.php:372 views/sfsi_option_view2.php:380
+msgid "To find your User ID/Channel ID, login to your YouTube account, click the user icon at the top right corner and select \"Settings\", then click \"Advanced\" under \"Name\" and you will find both your \"Channel ID\" and \"User ID\" under \"Account Information\".:"
+msgstr "要查找您的用户ID/频道ID，请登录您的YouTube帐户，单击右上角的用户图标，选择“设置”，单击“名称”下的“高级”，就能找到您的“频道 ID”和 “帐户信息”下的“用户 ID”。："
+
+#: views/sfsi_option_view2.php:370
+msgid "UserName:"
+msgstr "用户名："
+
+#: views/sfsi_option_view2.php:355
+msgid "(allows people to subscribe to you directly, without leaving your blog)"
+msgstr "（允许用户无需离开您的博客就可以直接订阅）"
+
+#: views/sfsi_option_view2.php:355
+msgid "Subscribe to me on Youtube"
+msgstr "在Youtube上订阅我的频道"
+
+#: views/sfsi_option_view2.php:353
+msgid "Visit my Youtube page at:"
+msgstr "点击访问我的Youtube页面："
+
+#: views/sfsi_option_view2.php:351
+msgid "The Youtube icon should allow users to... "
+msgstr "Youtube图标应该允许用户……"
+
+#: views/sfsi_option_view2.php:344
+msgid "The Youtube icon can perform several actions. Pick below which ones it should perform. If you select several options, then users can select what they want to do %1s (see an example) %2s "
+msgstr "Youtube图标可以执行多种操作。在下面选择您希望执行的操作。 如果您选择多个，则用户可以选择他们想要执行的操作%1s（参见示例）%2s"
+
+#: views/sfsi_option_view2.php:324
+msgid "%1s New: %2s Tweeting becomes really fun in the Premium Plugin – you can insert tags to automatically pull the title of the story & link to the story, attach pictures & snippets to the Tweets (‘Twitter cards’) and user Url-shorteners, all leading to more Tweets and traffic for your site! %3s or learn more. %4s"
+msgstr "%1s新增：%2s推文在高级插件中变得非常有趣。您可以插入标签，自动提取故事标题和故事链接，将图片和片段附加到推文（“Twitter卡片”）和用户URL缩短工具，所有这些都会为您的网站带来更多推文和流量！%3s或了解更多。%4s"
+
+#: views/sfsi_option_view2.php:316
+msgid "Follow me on Twitter:"
+msgstr "关注我的Twitter："
+
+#: views/sfsi_option_view2.php:314
+msgid "Visit me on Twitter:"
+msgstr "访问我的Twitter："
+
+#: views/sfsi_option_view2.php:312
+msgid "The Twitter icon should allow users to..."
+msgstr "Twitter图标应该允许用户……"
+
+#: views/sfsi_option_view2.php:306
+msgid "The Twitter icon can perform several actions. Pick below which ones it should perform. If you select several options, then users can select what they want to do %1s (see an example) %2s "
+msgstr "Twitter图标可以执行多种操作。在下面选择您希望执行的操作。 如果您选择多个，则用户可以选择他们想要执行的操作%1s（参见示例）%2s"
+
+#: views/sfsi_option_view2.php:284
+msgid "%1$s New: %2$s In our Premium Plugin you can also allow users to follow you on Facebook  %3$s directly from your site %4$s (without leaving your page, increasing followers). %5$sGo premium now%6$s or learn more.%7$s"
+msgstr "%1$s新增：%2$s高级版插件中，您还可以允许用户%3$s直接通过网站%4$s在Facebook上关注您（无需离开页面就能关注）。%5$s立即获取高级版%6$s或了解更多。%7$s"
+
+#: views/sfsi_option_view2.php:278
+msgid "Like my blog on Facebook (+1)"
+msgstr "在Facebook上点赞我的博客（+1）"
+
+#: views/sfsi_option_view2.php:276
+msgid "Visit my Facebook page at:"
+msgstr "点击访问我的Facebook页面："
+
+#: views/sfsi_option_view2.php:274
+msgid "The Facebook icon should allow users to..."
+msgstr "Facebook图标应该允许用户……"
+
+#: views/sfsi_option_view2.php:268
+msgid "The Facebook icon can perform several actions. Pick below which ones it should perform. If you select several options, then users can select what they want to do %1s (see an example) %2s "
+msgstr "Facebook图标可以执行多种操作。在下面选择您希望执行的操作。 如果您选择多个，则用户可以选择他们想要执行的操作%1s（参见示例）%2s"
+
+#: views/sfsi_option_view2.php:241
+msgid "%1$sNew:%2$s In our Premium Plugin you can now give your email icon other functions too, e.g. %3$scontact you%4$s (email), %5$sshare by email,%6$s and %7$slink to a certain page%8$s (e.g. your contact form or newsletter sign-up site). %9$sGo premium now%10$s or learn more.%11$s"
+msgstr "%1$s新增：%2$s高级版插件中，您还可以为电子邮件图标设置其他功能，例如%3$s联系您%4$s（通过电子邮件），%5$s通过电子邮件分享，%6$s和%7$s链接到某个页面%8$s（例如您的联系表格或订阅邮件注册页面）。%9$s立即获取高级版%10$s或了解更多。%11$s"
+
+#: views/sfsi_option_view2.php:232
+msgid "All data will be treated highly confidentially, see the %1s Privacy Policy %2s"
+msgstr "所有数据都将高度保密，请参阅%1s隐私政策%2s"
+
+#: views/sfsi_option_view2.php:229
+msgid "This will create your FREE account on follow.it, using above email."
+msgstr "这将通过上述电子邮件在follow.it上创建您的免费帐户。"
+
+#: views/sfsi_option_view2.php:223
+msgid "Click here to benefit from all advantages >"
+msgstr "单击此处，尽享优势>"
+
+#: views/sfsi_option_view2.php:211
+msgid "of the emails"
+msgstr "邮件的"
+
+#: views/sfsi_option_view2.php:211
+msgid "Tailor the sender name & subject line"
+msgstr "定制发件人姓名和邮件标题"
+
+#: views/sfsi_option_view2.php:210
+msgid "when people subscribe or unsubscribe"
+msgstr "当用户订阅或取消订阅"
+
+#: views/sfsi_option_view2.php:210
+msgid "Get alerts"
+msgstr "收到提醒"
+
+#: views/sfsi_option_view2.php:209
+msgid "by being listed in the follow.it directory"
+msgstr "通过在follow.it的目录中列出"
+
+#: views/sfsi_option_view2.php:209
+msgid "Get more traffic"
+msgstr "获得更多流量"
+
+#: views/sfsi_option_view2.php:204
+msgid "Facebook & Twitter"
+msgstr "Facebook和Twitter"
+
+#: views/sfsi_option_view2.php:204
+msgid "Automatically post on"
+msgstr "自动发布"
+
+#: views/sfsi_option_view2.php:203
+msgid "interesting statistics"
+msgstr "值得关注的数据"
+
+#: views/sfsi_option_view2.php:203
+msgid "subscribers’ emails"
+msgstr "订阅者的电子邮件"
+
+#: views/sfsi_option_view2.php:203
+msgid "See your"
+msgstr "查看您的"
+
+#: views/sfsi_option_view2.php:202
+msgid "to your site"
+msgstr "至您的网站"
+
+#: views/sfsi_option_view2.php:202
+msgid "More people come back"
+msgstr "更多人回访"
+
+#: views/sfsi_option_view2.php:198
+msgid "The service offers many (more) advantages:"
+msgstr "该服务有许多（更多）优势："
+
+#: views/sfsi_option_view2.php:195
+msgid "(provider of the service)"
+msgstr "（服务提供者）"
+
+#: views/sfsi_option_view2.php:195
+msgid "follow.it icon"
+msgstr "follow.it图标"
+
+#: views/sfsi_option_view2.php:189
+msgid "Email + Follow text"
+msgstr "电子邮件 + 关注文本"
+
+#: views/sfsi_option_view2.php:183
+msgid "Email icon"
+msgstr "电子邮件图标"
+
+#: views/sfsi_option_view2.php:177
+msgid "Please pick which icon type you want to use:"
+msgstr "请选择您要使用的图标类型："
+
+#: views/sfsi_option_view2.php:175
+msgid ") and receive new posts automatically by email."
+msgstr "）并通过电子邮件自动接收新文章。"
+
+#: views/sfsi_option_view2.php:175
+msgid "this screen"
+msgstr "这个屏幕"
+
+#: views/sfsi_option_view2.php:175
+msgid "It allows your visitors to subscribe to your site (on"
+msgstr "这允许您的访客订阅您的网站（在"
+
+#: views/sfsi_option_view2.php:159
+msgid "For most blogs it’s"
+msgstr "对于大多数博客来说，这是"
+
+#: views/sfsi_option_view2.php:157
+msgid "RSS URL:"
+msgstr "RSS的URL："
+
+#: views/sfsi_option_view2.php:155
+msgid "When clicked on, users can subscribe via RSS"
+msgstr "点击后，用户可以通过RSS订阅"
+
+#: views/sfsi_option_view2.php:673 views/sfsi_option_view1.php:824
+#: views/sfsi_question3.php:124 views/sfsi_option_view4.php:835
+#: views/sfsi_option_view7.php:560 views/sfsi_option_view5.php:564
+#: views/sfsi_option_view3.php:434
+msgid "Save"
+msgstr "保存"
+
+#: views/sfsi_option_view1.php:798
+msgid "...and many more! See them here"
+msgstr "……还有更多！点击这里查看"
+
+#: views/sfsi_option_view1.php:784
+msgid "Steam"
+msgstr "Steam"
+
+#: views/sfsi_option_view1.php:772
+msgid "Angie’s List"
+msgstr "Angie的清单"
+
+#: views/sfsi_option_view1.php:756
+msgid "Amazon"
+msgstr "亚马逊"
+
+#: views/sfsi_option_view1.php:744
+msgid "Twitch"
+msgstr "Twitch"
+
+#: views/sfsi_option_view1.php:732
+msgid "Xing"
+msgstr "Xing"
+
+#: views/sfsi_option_view1.php:720
+msgid "Houzz"
+msgstr "Houzz"
+
+#: views/sfsi_option_view1.php:708
+msgid "Tumblr"
+msgstr "Tumblr"
+
+#: views/sfsi_option_view1.php:696
+msgid "Vimeo"
+msgstr "Vimeo"
+
+#: views/sfsi_option_view1.php:680
+msgid "Reddit"
+msgstr "Reddit"
+
+#: views/sfsi_option_view1.php:668
+msgid "Blogger"
+msgstr "Blogger"
+
+#: views/sfsi_option_view1.php:656
+msgid "Buffer"
+msgstr "Buffer"
+
+#: views/sfsi_option_view1.php:644
+msgid "Flickr"
+msgstr "Flickr"
+
+#: views/sfsi_option_view1.php:632
+msgid "Skype"
+msgstr "Skype"
+
+#: views/sfsi_option_view1.php:620
+msgid "Soundcloud"
+msgstr "SoundCloud"
+
+#: views/sfsi_option_view1.php:604
+msgid "Messenger"
+msgstr "Messenger"
+
+#: views/sfsi_option_view1.php:592
+msgid "Print"
+msgstr "Print"
+
+#: views/sfsi_option_view1.php:580
+msgid "Yelp"
+msgstr "Yelp"
+
+#: views/sfsi_option_view1.php:568
+msgid "Yummly"
+msgstr "Yummly"
+
+#: views/sfsi_option_view1.php:544
+msgid "Snapchat"
+msgstr "Snapchat"
+
+#: views/sfsi_option_view1.php:531
+msgid "In our Premium Plugin we added icons for:"
+msgstr "高级版插件中，新增图标用于："
+
+#: views/sfsi_option_view2.php:637 views/sfsi_option_view1.php:506
+#: views/sfsi_option_view5.php:496
+msgid "Custom"
+msgstr "自定义"
+
+#: views/sfsi_option_view1.php:480 views/sfsi_option_view1.php:512
+msgid "Upload a custom icon if you have other accounts/websites you want to link to."
+msgstr "如果您有其他要链接的帐户/网站，请上传自定义图标。"
+
+#: views/sfsi_option_view1.php:411 views/sfsi_option_view3.php:362
+msgid "Get it now."
+msgstr "立即获取。"
+
+#: views/sfsi_option_view1.php:409
+msgid "Upload a custom icon if you have other accounts/websites you want to link to -"
+msgstr "如果您有其他要链接的帐户/网站，请上传自定义图标——"
+
+#: views/sfsi_option_view1.php:407 views/sfsi_option_view3.php:359
+msgid "Premium Feature:"
+msgstr "高级版功能："
+
+#: views/sfsi_option_view1.php:400
+msgid "Custom Icon "
+msgstr "自定义图标"
+
+#: views/sfsi_option_view1.php:348
+msgid "Show this icon if you have a Weibo account."
+msgstr "如果您有微博账号，显示此图标。"
+
+#: views/sfsi_option_view2.php:541 views/sfsi_pop_content.php:527
+#: views/sfsi_option_view1.php:342
+msgid "Weibo"
+msgstr "微博"
+
+#: views/sfsi_option_view1.php:330
+msgid "Show this icon if you have a WeChat account."
+msgstr "如果您有微信账号，显示此图标。"
+
+#: views/sfsi_option_view2.php:493 views/sfsi_pop_content.php:547
+#: views/sfsi_option_view1.php:326
+msgid "WeChat"
+msgstr "微信"
+
+#: views/sfsi_option_view1.php:314
+msgid "Show this icon if you have an OK account."
+msgstr "如果您有OK账户，显示此图标。"
+
+#: views/sfsi_pop_content.php:507 views/sfsi_option_view1.php:308
+msgid "Ok"
+msgstr "OK"
+
+#: views/sfsi_option_view1.php:295
+msgid "Show this icon if you have a VK account."
+msgstr "如果您有VK账户，显示此图标。"
+
+#: views/sfsi_option_view2.php:568 views/sfsi_pop_content.php:487
+#: views/sfsi_option_view1.php:291
+msgid "VK"
+msgstr "VK"
+
+#: views/sfsi_option_view1.php:279
+msgid "Show this icon if you have a Telegram account."
+msgstr "如果您有Telegram账户，显示此图标。"
+
+#: views/sfsi_option_view2.php:458 views/sfsi_pop_content.php:467
+#: views/sfsi_option_view1.php:273
+msgid "Telegram"
+msgstr "Telegram"
+
+#: views/sfsi_option_view1.php:262
+msgid "Show this icon if you want to allow users to share the page via WhatsApp."
+msgstr "如果您希望允许用户通过WhatsApp分享此页面，显示此图标。"
+
+#: views/sfsi_option_view2.php:518 views/sfsi_option_view1.php:258
+msgid "WhatsApp"
+msgstr "WhatsApp"
+
+#: views/sfsi_option_view1.php:247
+msgid "Show this icon if you have an Instagram account."
+msgstr "如果您有Instagram账号，显示此图标。"
+
+#: views/sfsi_option_view2.php:412 views/sfsi_pop_content.php:447
+#: views/sfsi_option_view1.php:241
+msgid "Instagram"
+msgstr "Instagram"
+
+#: views/sfsi_option_view1.php:229
+msgid "Show this icon if you have a Pinterest account (and you should set up one if you publish new pictures regularly – that can increase your traffic significantly)."
+msgstr "如果您有Pinterest帐号，显示此图标（如果您定期发布新图片，推荐进行此设置，会显著增加流量）。"
+
+#: views/sfsi_option_view2.php:392 views/sfsi_pop_content.php:427
+#: views/sfsi_option_view1.php:223
+msgid "Pinterest"
+msgstr "Pinterest"
+
+#: views/sfsi_option_view1.php:210
+msgid " No.1 network for business purposes. Use this icon if you’re a LinkedInner."
+msgstr "商业用途的首选人脉网。如果您是LinkedIn用户，请使用此图标。"
+
+#: views/sfsi_option_view2.php:422 views/sfsi_option_view1.php:206
+msgid "LinkedIn"
+msgstr "LinkedIn"
+
+#: views/sfsi_option_view1.php:195
+msgid "Show this icon if you have a youtube account (and you should set up one if you have video content – that can increase your traffic significantly)."
+msgstr "如果您有YouTube帐户，显示此图标（如果您有视频内容，推荐进行此设置，会显著增加流量）。"
+
+#: views/sfsi_option_view1.php:195 views/sfsi_option_view1.php:210
+#: views/sfsi_option_view1.php:480 views/sfsi_option_view1.php:512
+msgid "It depends:"
+msgstr "视情况而定："
+
+#: views/sfsi_option_view2.php:339 views/sfsi_pop_content.php:387
+#: views/sfsi_option_view1.php:192
+msgid "Youtube"
+msgstr "Youtube"
+
+#: views/sfsi_option_view1.php:176
+msgid "If you have a Twitter-account then adding this icon is a no-brainer. However, similar as with Facebook, even if you don’t have one you should still show this icon so that Twitter-users can share your site."
+msgstr "如果您有Twitter帐户，那么添加此图标非常简单。 但是，与Facebook类似，即使没有该图标也应显示，以便Twitter用户分享您的网站。"
+
+#: views/sfsi_option_view1.php:174
+msgid "Can have a strong promotional effect."
+msgstr "可以带来很好的宣传效果。"
+
+#: views/sfsi_option_view2.php:301 views/sfsi_pop_content.php:346
+#: views/sfsi_option_view1.php:170
+msgid "Twitter"
+msgstr "Twitter"
+
+#: views/sfsi_option_view1.php:152
+msgid "Facebook is the giant in the social media world, and even if you don’t have a Facebook account yourself you should display this icon, so that Facebook users can share your site on Facebook. "
+msgstr "Facebook是社交媒体世界的巨头，即使您自己没有Facebook帐户，也应该显示此图标，以便Facebook用户可以在Facebook上分享您的网站。"
+
+#: views/sfsi_option_view1.php:150
+msgid "Facebook is crucial, esp. for sharing."
+msgstr "Facebook至关重要，尤其是分享功能。"
+
+#: views/sfsi_option_view2.php:263 views/sfsi_pop_content.php:326
+#: views/sfsi_option_view1.php:146
+msgid "Facebook"
+msgstr "Facebook"
+
+#: views/sfsi_option_view1.php:129
+msgid " to make people follow you. Not offering an email subscription option means losing out on future traffic to your site."
+msgstr "让用户关注您。不提供电子邮件订阅选项，意味着将失去一部分日后的网站流量。"
+
+#: views/sfsi_option_view1.php:129
+msgid "much more effective than social media"
+msgstr "比社交媒体更加有效"
+
+#: views/sfsi_option_view1.php:129
+msgid "Everybody uses email – that’s why it’s "
+msgstr "每个人都使用电子邮件——这就是它为什么"
+
+#: views/sfsi_option_view1.php:123
+msgid "Remove credit link"
+msgstr "删除推广链接"
+
+#: views/sfsi_option_view1.php:116
+msgid "Email is the most effective tool to build up followership."
+msgstr "电子邮件是增加订阅人数的最有效工具。"
+
+#: views/sfsi_pop_content.php:306 views/sfsi_option_view1.php:112
+msgid "Email"
+msgstr "电子邮件"
+
+#: views/sfsi_option_view1.php:96 views/sfsi_option_view1.php:133
+#: views/sfsi_option_view1.php:156 views/sfsi_option_view1.php:180
+msgid "Read more"
+msgstr "查看更多"
+
+#: views/sfsi_option_view1.php:94
+msgid "here"
+msgstr "这里"
+
+#: views/sfsi_option_view1.php:94
+msgid "RSS stands for Really Simply Syndication and is an easy way for people to read your content. You can learn more about it "
+msgstr "RSS代表“简易信息聚合”（Really Simply Syndication），是人们阅读内容的一种简单方式。了解更多"
+
+#: views/sfsi_option_view1.php:92
+msgid "RSS is still popular, esp. among the tech-savvy crowd."
+msgstr "RSS仍然受人青睐，尤见于精通技术的群体。"
+
+#: views/sfsi_option_view1.php:91 views/sfsi_option_view1.php:116
+#: views/sfsi_option_view1.php:150 views/sfsi_option_view1.php:174
+msgid "Strongly recommended:"
+msgstr "强烈推荐："
+
+#: views/sfsi_option_view2.php:153 views/sfsi_option_view1.php:87
+msgid "RSS"
+msgstr "RSS"
+
+#: views/sfsi_option_view1.php:75
+msgid " because people have different preferences, and more options mean that there’s something for everybody, increasing the chances that you get followed and/or shared."
+msgstr "因为用户有不同的偏好，更多的选择意味着每人都能各取所需，从而增加关注度和/或分享量。"
+
+#: views/sfsi_option_view1.php:74
+msgid "the more icons you offer the better"
+msgstr "您提供的图标越多越好"
+
+#: views/sfsi_option_view1.php:73
+msgid "In general,"
+msgstr "总体而言，"
+
+#: views/sfsi_option_view8.php:903
+msgid "Right Align"
+msgstr "右对齐"
+
+#: views/sfsi_option_view6.php:463 views/sfsi_option_view8.php:901
+#: views/sfsi_option_view5.php:239 views/sfsi_option_view5.php:251
+#: views/sfsi_option_view5.php:266
+msgid "Centered"
+msgstr "居中"
+
+#: views/sfsi_option_view8.php:899
+msgid "Left Align"
+msgstr "左对齐"
+
+#: views/sfsi_option_view8.php:883
+msgid "Bold"
+msgstr "加粗"
+
+#: views/sfsi_option_view8.php:881 views/sfsi_option_view7.php:345
+msgid "Italic"
+msgstr "斜体"
+
+#: views/sfsi_option_view8.php:879 views/sfsi_option_view7.php:343
+msgid "Oblique"
+msgstr "倾斜"
+
+#: views/sfsi_option_view8.php:877 views/sfsi_option_view7.php:341
+msgid "Inherit"
+msgstr "继承"
+
+#: views/sfsi_option_view8.php:875 views/sfsi_option_view7.php:339
+msgid "Normal"
+msgstr "标准"
+
+#: views/sfsi_option_view8.php:859 views/sfsi_option_view7.php:323
+msgid "Verdana"
+msgstr "Verdana"
+
+#: views/sfsi_option_view8.php:857 views/sfsi_option_view7.php:321
+msgid "Trebuchet MS"
+msgstr "Trebuchet MS"
+
+#: views/sfsi_option_view8.php:855 views/sfsi_option_view7.php:319
+msgid "Times New Roman"
+msgstr "Times New Roman"
+
+#: views/sfsi_option_view8.php:853 views/sfsi_option_view7.php:317
+msgid "Tahoma"
+msgstr "Tahoma"
+
+#: views/sfsi_option_view8.php:851 views/sfsi_option_view7.php:315
+msgid "Lucida Console"
+msgstr "Lucida Console"
+
+#: views/sfsi_option_view8.php:849 views/sfsi_option_view7.php:313
+msgid "Impact"
+msgstr "Impact"
+
+#: views/sfsi_option_view8.php:845 views/sfsi_option_view7.php:311
+msgid "Helvetica"
+msgstr "Helvetica"
+
+#: views/sfsi_option_view8.php:841 views/sfsi_option_view7.php:309
+msgid "Georgia"
+msgstr "Georgia"
+
+#: views/sfsi_option_view8.php:839 views/sfsi_option_view7.php:307
+msgid "Courier New"
+msgstr "Courier New"
+
+#: views/sfsi_option_view8.php:837 views/sfsi_option_view7.php:305
+msgid "Comic Sans MS"
+msgstr "Comic Sans MS"
+
+#: views/sfsi_option_view8.php:835 views/sfsi_option_view7.php:303
+msgid "Calibri"
+msgstr "Calibri"
+
+#: views/sfsi_option_view8.php:831 views/sfsi_option_view7.php:301
+msgid "Arial Black"
+msgstr "Arial黑色"
+
+#: views/sfsi_option_view8.php:825 views/sfsi_option_view7.php:299
+msgid "Arial"
+msgstr "Arial"
+
+#: views/sfsi_option_view2.php:677 views/sfsi_option_view6.php:479
+#: views/sfsi_option_view1.php:827 views/sfsi_option_view8.php:771
+#: views/sfsi_question3.php:132 views/sfsi_option_view4.php:839
+#: views/sfsi_option_view7.php:565 views/sfsi_option_view5.php:568
+#: views/sfsi_option_view3.php:440
+msgid "Collapse area"
+msgstr "折叠区域"
+
+#: views/sfsi_option_view8.php:745 views/sfsi_option_view7.php:422
+msgid "Check it out."
+msgstr "查看这个。"
+
+#: views/sfsi_option_view8.php:745
+msgid "In the Premium Plugin you can choose to display the text on subscribe form in a font already present in your theme."
+msgstr "高级版插件中，您可以选择在订阅表单中应用主题字体。"
+
+#: views/sfsi_option_view6.php:169 views/sfsi_option_view6.php:317
+#: views/sfsi_option_view1.php:531 views/sfsi_option_view8.php:745
+#: views/sfsi_option_view7.php:422 views/subviews/que4/banner.php:75
+msgid "New:"
+msgstr "新增："
+
+#: views/sfsi_option_view8.php:709
+msgid "Button color:"
+msgstr "按钮颜色："
+
+#: views/sfsi_option_view8.php:677
+msgid "Font size"
+msgstr "字号"
+
+#: views/sfsi_option_view8.php:593
+msgid "Subscribe button"
+msgstr "订阅按钮"
+
+#: views/sfsi_option_view8.php:481
+msgid "Entry field"
+msgstr "输入字段"
+
+#: views/sfsi_option_view8.php:463 views/sfsi_option_view8.php:563
+#: views/sfsi_option_view8.php:695
+msgid "Alignment:"
+msgstr "对齐方式："
+
+#: views/sfsi_option_view8.php:445 views/sfsi_option_view8.php:571
+#: views/sfsi_option_view7.php:363
+msgid "Font size:"
+msgstr "字号："
+
+#: views/sfsi_option_view8.php:419 views/sfsi_option_view8.php:651
+#: views/sfsi_option_view7.php:355
+msgid "Font color:"
+msgstr "字体颜色："
+
+#: views/sfsi_option_view8.php:405 views/sfsi_option_view8.php:525
+#: views/sfsi_option_view8.php:637 views/sfsi_option_view7.php:333
+msgid "Font style:"
+msgstr "字体样式："
+
+#: views/sfsi_option_view8.php:397 views/sfsi_option_view8.php:517
+#: views/sfsi_option_view8.php:629 views/sfsi_option_view7.php:293
+msgid "Font:"
+msgstr "字体："
+
+#: views/sfsi_option_view8.php:377 views/sfsi_option_view8.php:497
+#: views/sfsi_option_view8.php:609 views/sfsi_option_view7.php:285
+msgid "Text:"
+msgstr "文本："
+
+#: views/sfsi_option_view8.php:361
+msgid "Text above the entry field"
+msgstr "输入字段上方文本"
+
+#: views/sfsi_option_view8.php:327
+msgid "Background color:"
+msgstr "背景颜色："
+
+#: views/sfsi_option_view8.php:302
+msgid "Color"
+msgstr "颜色"
+
+#: views/sfsi_option_view6.php:373 views/sfsi_option_view8.php:296
+#: views/sfsi_option_view8.php:451 views/sfsi_option_view8.php:577
+#: views/sfsi_option_view8.php:683
+msgid "pixels"
+msgstr "像素"
+
+#: views/sfsi_option_view8.php:290
+msgid "Thickness"
+msgstr "厚度"
+
+#: views/sfsi_option_view8.php:260
+msgid "Border?"
+msgstr "边框？"
+
+#: views/sfsi_option_view8.php:248
+msgid "Width"
+msgstr "宽度"
+
+#: views/sfsi_option_view8.php:240
+msgid "Height"
+msgstr "高度"
+
+#: views/sfsi_option_view8.php:226 views/sfsi_option_view8.php:276
+#: views/sfsi_option_view4.php:273
+#: views/subviews/que3/sfsi_que3_place_via_float.php:259
+#: views/sfsi_option_view5.php:298 views/sfsi_option_view5.php:328
+#: views/sfsi_option_view5.php:521 views/sfsi_option_view5.php:537
+msgid "No"
+msgstr "否"
+
+#: views/sfsi_option_view8.php:218 views/sfsi_option_view8.php:268
+#: views/sfsi_option_view4.php:270
+#: views/subviews/que3/sfsi_que3_place_via_float.php:251
+#: views/sfsi_option_view5.php:294 views/sfsi_option_view5.php:323
+#: views/sfsi_option_view5.php:517 views/sfsi_option_view5.php:533
+msgid "Yes"
+msgstr "是"
+
+#: views/sfsi_option_view8.php:210
+msgid "Adjust size to space on the website?"
+msgstr "根据网站空间调整大小？"
+
+#: views/sfsi_option_view8.php:194
+msgid "Overall size & border"
+msgstr "整体大小和边框"
+
+#: views/sfsi_option_view8.php:192
+msgid "Define text & design (optional)"
+msgstr "设置文本和风格（可选）"
+
+#: views/sfsi_option_view8.php:153 views/sfsi_option_view8.php:925
+msgid "Get new posts by email:"
+msgstr "通过电子邮件接收新文章："
+
+#: views/sfsi_option_view8.php:133
+msgid "3. Copy & paste HTML code:"
+msgstr "3. 复制粘贴HTML代码："
+
+#: views/sfsi_option_view8.php:131
+msgid " to place it into your codes"
+msgstr "将其放进您的代码"
+
+#: views/sfsi_option_view8.php:131
+msgid "[USM_form]"
+msgstr "[USM_form]"
+
+#: views/sfsi_option_view8.php:131
+msgid "Use the shortcode"
+msgstr "使用简码"
+
+#: views/sfsi_option_view8.php:131
+msgid "2. Shortcode:"
+msgstr "2. 简码："
+
+#: views/sfsi_option_view8.php:127
+msgid " and drag & drop it to the sidebar."
+msgstr "并将其拖放到侧边栏。"
+
+#: views/sfsi_option_view8.php:127
+msgid "widget settings<"
+msgstr "小工具设置<"
+
+#: views/sfsi_option_view8.php:127
+msgid "P Go to the "
+msgstr "前往"
+
+#: views/sfsi_option_view8.php:127
+msgid "1. Widget:"
+msgstr "1. 小工具："
+
+#: views/sfsi_option_view8.php:123
+msgid "You can place the form by different methods:"
+msgstr "您可以通过不同的方法放置表单："
+
+#: views/sfsi_option_view8.php:121
+msgid "Place it on your site"
+msgstr "把它放在你的网站上"
+
+#: views/sfsi_option_view6.php:122 views/sfsi_option_view8.php:105
+msgid "Preview:"
+msgstr "预览："
+
+#: views/sfsi_option_view8.php:88
+msgid "To get access to the emails who subscribe, interesting statistics about your subscribers, alerts when people subscribe or unsubscribe and to tailor the sender name & the subject line of the emails, please %1s click here.%2s"
+msgstr "要访问订阅的电子邮件、查看值得注意的订阅者数据、获取用户订阅或取消订阅时的提醒以及定制电子邮件的发件人姓名和邮件标题，请%1s单击此处。%2s"
+
+#: views/sfsi_option_view8.php:80
+msgid "In addition to the email- and follow-icon you can also show a subscription form which maximizes chances that people subscribe to your site."
+msgstr "除了电子邮件和关注图标之外，您还可以显示订阅表格，以最大限度地增加订阅人数。"
+
+#: views/sfsi_global_banners.php:309
+msgid "Why not give yourself a treat and upgrade to premium? It has %1s tons of benefits %2s . As a THANK YOU for your loyalty we’re happy to give you a  %3s 20% discount %4s Apply it now %5s"
+msgstr "为什么不升级到高级版，尽享高级功能？高级版有%1s 无数优势 %2s。感谢您的支持，我们很高兴为您提供%3s 20%的折扣 %4s 立即申请 %5s"
+
+#: views/sfsi_global_banners.php:305
+msgid ". That’s a long time!"
+msgstr "。那是很长一段时间！"
+
+#: views/sfsi_global_banners.php:305
+msgid "over half a yea"
+msgstr "超过半年"
+
+#: views/sfsi_global_banners.php:305
+msgid "You’ve been using the Ultimate Social media plugin for "
+msgstr "您已经使用终极社交媒体插件"
+
+#: views/sfsi_global_banners.php:270
+msgid ""
+"Important: %1s Your website used to be on http (before you enabled an SSL certificate to switch to https). We found share counts for your URLs on http which usually get lost after switch to https (because Facebook etc. provide the counts per url, and an url on https is a different url then one on http).%2s We found a solution for that \n"
+"                                        %3s so that your share counts on http and https will be aggregated and your full number of share counts is restored. It is implemented in the Premium Plugin – %4s Get it now at 20% discount %5s"
+msgstr ""
+"重要提示：%1s 您的网站曾经使用http（在您启用SSL证书以切换到https之前）。我们发现您在http上的URL分享量数据在切换到https后通常会丢失（因为Facebook等提供每个URL的计数，并且https的URL与http不同。%2s 我们找到了该问题的解决方案，\n"
+"                                         %3s 以便您能合并http和https的分享量数据，并恢复您的全部分享量数据。高级版支持此功能。%4s 现在以 20% 的折扣获取高级版 %5s"
+
+#: views/sfsi_global_banners.php:241
+#: views/subviews/que3/sfsi_que3_place_via_shortcode.php:55
+msgid "Get it now"
+msgstr "立即获取"
+
+#: views/sfsi_global_banners.php:241
+msgid "a GDPR review is done for you (at no extra charge)"
+msgstr "已为您完成GDPR检查（不收取额外费用）"
+
+#: views/sfsi_other_banners.php:124 views/sfsi_other_banners.php:161
+#: views/sfsi_other_banners.php:236 views/sfsi_other_banners.php:276
+#: views/sfsi_option_view6.php:117 views/sfsi_global_banners.php:241
+#: views/subviews/que4/animatethem.php:193
+msgid "Premium Plugin"
+msgstr "高级版插件"
+
+#: views/sfsi_global_banners.php:241
+msgid "If you don’t want to check GDPR compliance yourself: As part of the Ultimate Social Media "
+msgstr "如果您不想自己检查GDPR合规性：作为终极社交媒体功能的一部分"
+
+#: views/sfsi_global_banners.php:239
+msgid "here."
+msgstr "这里。"
+
+#: views/sfsi_global_banners.php:239
+msgid "SYou are using the Ultimate Social Media Plugin – see more information about GDPR "
+msgstr "您正在使用终极社交媒体插件——查看更多关于GDPR的信息"
+
+#: views/sfsi_global_banners.php:239
+msgid "Make sure your social media icons are GDPR compliant. "
+msgstr "确保您的社交媒体图标符合GDPR标准。"
+
+#: views/sfsi_global_banners.php:213
+msgid "from more likes & shares with the Ultimatelysocial Premium Plugin. Or get a refund within 20 days. "
+msgstr "通过使用来自终极社交媒体插件高级版，获得更多点赞量和分享量。或在20天内退款。"
+
+#: views/sfsi_other_banners.php:198 views/sfsi_global_banners.php:213
+msgid "Get 20%+ more traffic "
+msgstr "流量提升20%+"
+
+#: views/sfsi_global_banners.php:187
+msgid " – the Ultimate Social Media Premium Plugin is the most optimized sharing plugin for speed. It also includes support to help you optimize it for minimizing loading time."
+msgstr "——终极社交媒体插件为您提供最快的分享速度。该插件也支持优化，以最小化加载时间。"
+
+#: views/sfsi_other_banners.php:124 views/sfsi_global_banners.php:187
+msgid "Make your website load faster"
+msgstr "使您的网站加载更快"
+
+#: views/sfsi_global_banners.php:159
+msgid "and ensure you made the right selections. If they still don’t show it could be an issue with your theme. Our premium plugin allows to place the icons separately for mobile, which always fixes this issue."
+msgstr "并确保您做出了正确的选择。如果它们仍然没有显示，则可能是您的主题设置有问题。高级版插件中，允许为移动设备单独放置图标，不会出现此问题。"
+
+#: views/sfsi_global_banners.php:159
+msgid "S Ultimate Social Media plugin page"
+msgstr "终极社交媒体插件页面"
+
+#: views/sfsi_global_banners.php:159
+msgid "Please go to the"
+msgstr "请前往"
+
+#: views/sfsi_global_banners.php:157
+msgid "If you want to increase sharing & traffic to your site it is very important that they do (>50% of traffic is from mobile). "
+msgstr "如果您想增加网站的分享量和流量，那么他们这样做非常重要（>50%的流量来自移动设备）。"
+
+#: views/sfsi_global_banners.php:157
+msgid "don’t seem to show on mobile."
+msgstr "手机上不显示。"
+
+#: views/sfsi_global_banners.php:157
+msgid "Your social media & sharing icons"
+msgstr "您的社交媒体和分享图标"
+
+#: views/sfsi_other_banners.php:42 views/sfsi_other_banners.php:87
+#: views/sfsi_other_banners.php:124 views/sfsi_other_banners.php:198
+#: views/sfsi_other_banners.php:239 views/sfsi_other_banners.php:277
+#: views/sfsi_global_banners.php:130 views/sfsi_global_banners.php:160
+#: views/sfsi_global_banners.php:187 views/sfsi_global_banners.php:213
+msgid "Get it now at 20% discount"
+msgstr "以20%的折扣获取"
+
+#: views/sfsi_other_banners.php:82 views/sfsi_global_banners.php:129
+msgid "– The Ultimate Social Media Premium Plugin allows to show a Pinterest save-icon after users move over your pictures, increasing sharing activity significantly."
+msgstr "——终极社交媒体插件高级版支持在用户移动您的图片后显示Pinterest的保存图标，从而大大提升分享量。"
+
+#: views/sfsi_global_banners.php:129
+msgid "Get more traffic from your pictures "
+msgstr "通过您的图片获得更多流量"
+
+#: views/sfsi_global_banners.php:46
+msgid "(bulk) copies of your posts & pages and delete them again."
+msgstr "（批量）您的帖子和页面的副本，然后再次删除。"
+
+#: views/sfsi_global_banners.php:45
+msgid ", the best plugin to make"
+msgstr "，最好的插件"
+
+#: views/sfsi_global_banners.php:45
+msgid "Copy & Delete Posts"
+msgstr "复制和删除文章"
+
+#: views/sfsi_global_banners.php:45
+msgid "We recently launched"
+msgstr "我们最近推出"
+
+#: libs/sfsi_widget.php:16
+msgid "Ultimate Social Media Icons"
+msgstr "终极社交媒体插件图标"
+
+#: libs/sfsi_widget.php:8
+msgid "Ultimate Social Media Icons widgets"
+msgstr "终极社交媒体图标小工具"
+
+#: libs/sfsi_custom_social_sharing_data.php:264
+msgid "<span id=\"sfsi_twitter_desc_remaining_char\">106</span> Characters Remaining"
+msgstr "<span id=\"sfsi_twitter_desc_remaining_char\">106</span>个字符剩余"
+
+#: libs/sfsi_custom_social_sharing_data.php:260
+msgid "This will be used as tweet-text (the link which get shared will be automatically the added at the end). If you don’t enter anything here the tweet text will be used which you defined globally under question 6 on the plugin’s settings page. "
+msgstr "这将被用作推文（被分享的链接将自动添加到最后）。如果您没有在这里输入任何内容，推文将使用您在插件设置页面的问题6下全局定义的推文。"
+
+#: libs/sfsi_custom_social_sharing_data.php:251
+msgid "<strong>Tweet </strong>"
+msgstr "<strong>推文</strong>"
+
+#: libs/sfsi_custom_social_sharing_data.php:241
+msgid "This description will be used when this post is shared on Pinterest. Leave it blank to use the post title."
+msgstr "此描述将在文章被分享到 Pinterest 时使用。留空以使用文章标题。"
+
+#: libs/sfsi_custom_social_sharing_data.php:233
+msgid "<strong>Pinterest description </strong>(leave blank to use the post title)"
+msgstr "<strong>Pinterest描述</strong>（留空用于文章标题）"
+
+#: libs/sfsi_custom_social_sharing_data.php:189
+msgid "<span id=\"sfsi_desc_remaining_char\">297</span> Characters Remaining"
+msgstr "<span id=\"sfsi_desc_remaining_char\">297</span>个字符剩余"
+
+#: libs/sfsi_custom_social_sharing_data.php:185
+msgid "This description will be used when shared on Facebook, Linkedin, Twitter and WhatsApp (if you use ‘Twitter cards’). Leave it blank to use the post excerpt. [Developers: this is used by the open graph meta tag «og:description»]"
+msgstr "（如果您使用“Twitter 卡片”）在Facebook、Linkedin、Twitter和WhatsApp上分享时，将使用此说明。将其留空用于文章摘要。[开发人员：这是由开放图元标记«og:description»使用的]"
+
+#: libs/sfsi_custom_social_sharing_data.php:176
+msgid "<strong>Description </strong>(leave blank to use the post exerpt)"
+msgstr "<strong>描述</strong>（留空用于文章摘要）"
+
+#: libs/sfsi_custom_social_sharing_data.php:165
+msgid "<span id=\"sfsi_title_remaining_char\">95</span> Characters Remaining"
+msgstr "<span id=\"sfsi_title_remaining_char\">95</span>个字符剩余"
+
+#: libs/sfsi_custom_social_sharing_data.php:160
+msgid "This title will be used when shared on Facebook, Linkedin and WhatsApp. Leave it blank to use the post title. [Developers: this is used by the open graph meta tag «og:title»]"
+msgstr "在Facebook、Linkedin和WhatsApp上分享时将使用此标题。将其留空用于文章标题。[开发人员：这由开放图元标记«og:title»使用]"
+
+#: libs/sfsi_custom_social_sharing_data.php:152
+msgid "<strong>Title </strong>(leave blank to use the post title)"
+msgstr "<strong>标题</strong>（留空用于文章标题）"
+
+#: libs/sfsi_custom_social_sharing_data.php:129
+#: libs/sfsi_custom_social_sharing_data.php:207
+msgid "<strong>Picture </strong>(For social media sharing)"
+msgstr "<strong>图片</strong>（用于社交媒体分享）"
+
+#: libs/sfsi_subscribe_widget.php:13 libs/sfsi_subscribe_widget.php:16
+msgid "Ultimate Social Subscribe Form"
+msgstr "终极社交媒体订阅论坛"
+
+#: ultimate_social_media_icons.php:1044
+msgid "If you do not know how to do the upgrade, please ask your server team or hosting company to do it for you."
+msgstr "如果您不知道如何进行升级，请要求您的服务器或主机提供商为您进行升级。"
+
+#: ultimate_social_media_icons.php:1039
+msgid ""
+" We noticed you are running your site on a PHP version older than 5.4. Please upgrade to a more recent\n"
+"                        version. This is not only important for running the Ultimate Social Media Plugin, but also for security\n"
+"                        reasons in general."
+msgstr ""
+"我们注意到您在5.4之前的PHP版本上运行您的网站。请升级到更新的\n"
+"                         版本。这不仅对于运行终极社交媒体插件很重要，而且对于总体安全\n"
+"                         也很重要。"
+
+#: ultimate_social_media_icons.php:877
+msgid "Check it out"
+msgstr "查看这个"
+
+#: ultimate_social_media_icons.php:877
+msgid ", we found a fix for that:"
+msgstr "，我们找到了解决方案："
+
+#: ultimate_social_media_icons.php:877
+msgid "have a look at our Premium Plugin"
+msgstr "看看我们的高级插件"
+
+#: ultimate_social_media_icons.php:877
+msgid "If you don’t want to lose the Facebook share & like counts"
+msgstr "如果您不想丢失Facebook的分享和点赞数据"
+
+#: ultimate_social_media_icons.php:877
+msgid "Recently switched to https?"
+msgstr "最近切换到https了？"
+
+#: libs/index.php:2 libs/controllers/index.php:2 fonts/index.php:2
+#: css/images/index.php:2 css/index.php:2
+#: css/jquery-ui-1.10.4/images/index.php:2 css/jquery-ui-1.10.4/index.php:2
+#: images/icons_theme/black/index.php:2 images/icons_theme/official/index.php:2
+#: images/icons_theme/badge/index.php:2
+#: images/icons_theme/chrome_blue/index.php:2
+#: images/icons_theme/stitched/index.php:2
+#: images/icons_theme/chrome_grey/index.php:2
+#: images/icons_theme/cute/index.php:2 images/icons_theme/index.php:2
+#: images/index.php:2 index.php:2 views/index.php:2 js/index.php:2
+msgid "Access Denied"
+msgstr "拒绝访问"
+
+#. Author of the plugin
+msgid "UltimatelySocial"
+msgstr "UltimatelySocial"
+
+#. Description of the plugin
+msgid "Easy to use and 100% FREE social media plugin which adds social media icons to your website with tons of customization features!."
+msgstr "操作简单且100%免费的社交媒体插件，可将社交媒体图标添加到您的网站，并支持大量自定义功能！"
+
+#. Plugin URI of the plugin
+#. Author URI of the plugin
+msgid "http://ultimatelysocial.com"
+msgstr "http://ultimatelysocial.com"
+
+#. Plugin Name of the plugin
+msgid "Social Media and Share Icons (Ultimate Social Media)"
+msgstr "社交媒体和分享图标（终极社交媒体）"

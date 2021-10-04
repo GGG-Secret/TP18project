@@ -1,0 +1,41 @@
+
+---Downloaded files---
+The import files for: Business I were successfully downloaded!
+Initial max execution time = 30
+Files info:
+Site URL = http://18.189.145.47
+Data file = /opt/bitnami/wordpress/wp-content/uploads/2021/08/brite-ocdi/demo-content-import-file_2021-08-23__14-54-00.xml
+Widget file = /opt/bitnami/wordpress/wp-content/uploads/2021/08/brite-ocdi/demo-widgets-import-file_2021-08-23__14-54-00.json
+Customizer file = /opt/bitnami/wordpress/wp-content/uploads/2021/08/brite-ocdi/demo-customizer-import-file_2021-08-23__14-54-00.dat
+Redux files:
+not defined!
+
+---extendthemes-ocdi/before_content_import---
+
+
+---Importing widgets---
+Blog sidebar widget area : 
+
+Search - No Title - Widget already exists
+Recent Posts - No Title - Imported
+Recent Comments - No Title - Widget already exists
+Archives - No Title - Widget already exists
+Categories - No Title - Widget already exists
+Meta - No Title - Widget already exists
+
+newsletter_subscriber_widgets : Sidebar does not exist in theme (moving widget to Inactive)
+
+Search - No Title - Imported to Inactive
+Recent Posts - No Title - Imported to Inactive
+Recent Comments - No Title - Imported to Inactive
+Archives - No Title - Imported to Inactive
+Categories - No Title - Imported to Inactive
+Meta - No Title - Imported to Inactive
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---extendthemes-ocdi/after_import---
+

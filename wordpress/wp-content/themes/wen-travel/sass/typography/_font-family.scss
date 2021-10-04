@@ -1,0 +1,52 @@
+/**
+ * 2.1 - Font-Family
+ */
+
+body,
+button,
+input,
+select,
+textarea,
+.trip-filter-section .description-box button,
+#testimonial-content-section .entry-title,
+.widget-title,
+.posts-navigation a,
+#stats-section .entry-title,
+input[type="submit"].submit,
+.filter-button-group .button,
+button,
+.button,
+.woocommerce #respond input#submit,
+.woocommerce a.button,
+.woocommerce button.button,
+.woocommerce input.button,
+.post-navigation .post-title,
+.comment-meta .author-name,
+#content #infinite-handle span button,
+.ui-tabs .ui-tabs-nav li a,
+input[type="button"],
+input[type="reset"],
+input[type="submit"],
+input[type="submit"].wpcf7-submit,
+.team-content-wrapper .entry-title {
+	font-family: $body-font;
+}
+
+.main-navigation .nav-menu li a,
+.menu-label {
+	font-family: $menu-font;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+	font-family: $heading-font;
+}
+
+.site-title,
+.site-description {
+	font-family: $site-title-font;
+}

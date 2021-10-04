@@ -1,0 +1,42 @@
+
+---Downloaded files---
+The import files for: Business II were successfully downloaded!
+Initial max execution time = 30
+Files info:
+Site URL = http://18.189.145.47
+Data file = /opt/bitnami/wordpress/wp-content/uploads/2021/08/brite-ocdi/demo-content-import-file_2021-08-23__14-51-15.xml
+Widget file = /opt/bitnami/wordpress/wp-content/uploads/2021/08/brite-ocdi/demo-widgets-import-file_2021-08-23__14-51-15.json
+Customizer file = /opt/bitnami/wordpress/wp-content/uploads/2021/08/brite-ocdi/demo-customizer-import-file_2021-08-23__14-51-15.dat
+Redux files:
+not defined!
+
+---extendthemes-ocdi/before_content_import---
+
+
+--- Colibri Importer ---
+[INFO] - Installed Plugin: contact-form-7/wp-contact-form-7.php
+
+--- Colibri Importer ---
+[INFO] - Plugins instalantion requests new ajax call
+
+------
+New AJAX call!
+
+
+---Importing widgets---
+Blog sidebar widget area : 
+
+Search - No Title - Imported
+Recent Posts - No Title - Imported
+Recent Comments - No Title - Imported
+Archives - No Title - Imported
+Categories - No Title - Imported
+Meta - No Title - Imported
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---extendthemes-ocdi/after_import---
+

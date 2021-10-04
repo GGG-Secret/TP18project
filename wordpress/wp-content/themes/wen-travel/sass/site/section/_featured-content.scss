@@ -1,0 +1,98 @@
+/**
+ * 7.3.3 - Featured Content
+ */
+
+.featured-content-wrapper a {
+    text-decoration: none;
+}
+
+.featured-content-wrapper,
+.portfolio-content-section.itineraries,
+.portfolio-content-section.destination {
+    
+    .hentry-inner {
+    
+        &:hover {
+            transform: translateY(-10px);
+            -moz-transform: translateY(-10px);  
+            -webkit-transform: translateY(-10px);
+            
+            .post-thumbnail img {
+                transform: scale(1.025) rotate(1deg);
+                -moz-transform: scale(1.025) rotate(1deg);
+                -webkit-transform: scale(1.025) rotate(1deg);
+            }
+        }
+    }
+
+    .post-thumbnail {
+        overflow: hidden;
+    }
+}
+
+.service-section {
+    
+    .hentry-inner {
+    
+        &:hover {
+            transform: translateY(-10px);
+            -moz-transform: translateY(-10px);  
+            -webkit-transform: translateY(-10px);
+            
+            .post-thumbnail img {
+                transform: scale(1.025) rotate(1deg);
+                -moz-transform: scale(1.025) rotate(1deg);
+                -webkit-transform: scale(1.025) rotate(1deg);
+            }
+        }
+    }
+}
+
+.featured-content-section .section-content-wrapper .post-thumbnail {
+    margin-bottom: 0;
+    width: 100%;
+}
+
+#featured-video-section .entry-container {
+    margin-top: 14px;
+}
+
+#featured-video-section {
+    .post-thumbnail {
+        margin-bottom: 0;
+    }    
+    
+    .lightbox-enabled iframe {
+       pointer-events:none;
+    }
+}
+
+#featured-video-section a.mixed {
+    color: transparent;
+    display: block;
+}
+
+body .flashy-container .flashy-content {
+    background: transparent;
+}
+
+.featured-video-content-wrapper .entry-meta {
+    font-size: 16px;
+    font-size: 1rem;
+}
+
+.featured-video-content-wrapper .entry-header .entry-meta {
+    line-height: 1.25;
+    margin-top: 7px;
+    margin-bottom: 0;
+}
+
+.single-item .featured-video-content-wrapper .hentry:first-child {
+    margin-left: auto;
+    margin-right: auto;
+    float: none;
+}
+
+ .featured-video-content-wrapper .hentry.featured {
+    float: none;
+ }
